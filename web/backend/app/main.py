@@ -271,11 +271,13 @@ def _node_type(field_name: str) -> str:
 def _extract_graph_data(results: list[dict], cypher: str) -> dict:
     """
     Sorgu sonuçlarından graph görselleştirme için nodes + edges üretir.
-    Heuristik: string değerli entity alanlarını node, aynı satırdakileri edge olarak kabul eder.
+    - String entity alanları → node
+    - Liste entity alanları → node (her eleman ayrı node)
+    - Aynı satırdaki string entity ↔ liste entity arasında edge kurulur
+    - Tekrar eden edge'ler source+target anahtarıyla deduplicate edilir
     """
     nodes: dict[str, dict] = {}
-    edges: list[dict] = []
-    edge_id = 0
+    edges: dict[str, dict] = {}  # "src→tgt" → edge dict (dedup için)
 
     def upsert_node(value: str, ntype: str) -> str:
         nid = f"{ntype}:{value}"
@@ -283,8 +285,14 @@ def _extract_graph_data(results: list[dict], cypher: str) -> dict:
             nodes[nid] = {"id": nid, "label": value, "type": ntype}
         return nid
 
+    def upsert_edge(source: str, target: str, rel_type: str = "RELATED_TO"):
+        eid = f"{source}→{target}"
+        if eid not in edges:
+            edges[eid] = {"id": eid, "source": source, "target": target, "type": rel_type}
+
     for row in results:
-        row_node_ids: list[str] = []
+        row_string_ids: list[str] = []
+        row_list_ids: list[str] = []
 
         for field, value in row.items():
             fl = field.lower()
@@ -292,25 +300,24 @@ def _extract_graph_data(results: list[dict], cypher: str) -> dict:
 
             if isinstance(value, str) and is_entity_field and value:
                 nid = upsert_node(value, _node_type(fl))
-                row_node_ids.append(nid)
+                row_string_ids.append(nid)
 
             elif isinstance(value, list) and is_entity_field:
                 for item in value:
                     if isinstance(item, str) and item:
-                        upsert_node(item, _node_type(fl))
-                        # Listeler sadece node olarak eklenir, edge bağlantısı kurulmaz
+                        nid = upsert_node(item, _node_type(fl))
+                        row_list_ids.append(nid)
 
-        # Aynı satırdaki entity'ler arasında edge oluştur
-        for i in range(len(row_node_ids) - 1):
-            edges.append({
-                "id": f"e{edge_id}",
-                "source": row_node_ids[i],
-                "target": row_node_ids[i + 1],
-                "type": "RELATED_TO",
-            })
-            edge_id += 1
+        # String entity'ler birbirine bağlı (zincir)
+        for i in range(len(row_string_ids) - 1):
+            upsert_edge(row_string_ids[i], row_string_ids[i + 1])
 
-    return {"nodes": list(nodes.values()), "edges": edges}
+        # Her string entity, satırdaki liste item'larına bağlı
+        for str_nid in row_string_ids:
+            for list_nid in row_list_ids:
+                upsert_edge(str_nid, list_nid)
+
+    return {"nodes": list(nodes.values()), "edges": list(edges.values())}
 
 
 def _build_graph_json(rows: list[dict]) -> dict:

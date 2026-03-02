@@ -1,2 +1,4 @@
 .env
 apis.txt
+web/backend/.env
+web/backend/.env.example

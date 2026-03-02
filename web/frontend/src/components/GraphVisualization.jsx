@@ -47,10 +47,10 @@ const STYLESHEET = [
     selector: 'edge',
     style: {
       'width':                1.5,
-      'line-color':           '#2a2a3a',
-      'target-arrow-color':   '#2a2a3a',
+      'line-color':           '#5a5a7a',
+      'target-arrow-color':   '#5a5a7a',
       'target-arrow-shape':   'triangle',
-      'arrow-scale':          0.8,
+      'arrow-scale':          1.2,
       'curve-style':          'bezier',
       'label':                'data(label)',
       'font-size':            8,
