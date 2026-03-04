@@ -5658,5 +5658,7255 @@
     "studios": [
       "SF Studios"
     ]
+  },
+  {
+    "id": 266,
+    "title": "Contempt",
+    "year": 1963,
+    "runtime": 103,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "countries": [
+      "France",
+      "Italy"
+    ],
+    "studios": [
+      "Rome-Paris Films",
+      "Les Films Concordia",
+      "C. C. Champion"
+    ]
+  },
+  {
+    "id": 269,
+    "title": "Breathless",
+    "year": 1960,
+    "runtime": 90,
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "countries": [
+      "France"
+    ],
+    "studios": [
+      "Les Films Impéria",
+      "Les Productions Georges de Beauregard",
+      "SNC"
+    ]
+  },
+  {
+    "id": 1626,
+    "title": "Vivre Sa Vie",
+    "year": 1962,
+    "runtime": 84,
+    "genres": [
+      "Drama"
+    ],
+    "countries": [
+      "France"
+    ],
+    "studios": [
+      "Pathé Consortium Cinéma",
+      "Les Films de la Pléiade"
+    ]
+  },
+  {
+    "id": 1629,
+    "title": "La Chinoise",
+    "year": 1967,
+    "runtime": 96,
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "countries": [
+      "France"
+    ],
+    "studios": [
+      "Anouchka Films",
+      "Les Productions de la Guéville",
+      "Athos Films",
+      "Parc Film",
+      "Simar Films"
+    ]
+  },
+  {
+    "id": 2786,
+    "title": "Pierrot le Fou",
+    "year": 1965,
+    "runtime": 110,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Crime"
+    ],
+    "countries": [
+      "France",
+      "Italy"
+    ],
+    "studios": [
+      "DDL Cinematografica",
+      "Rome-Paris Films",
+      "SNC",
+      "Films Georges de Beauregard"
+    ]
+  },
+  {
+    "id": 4710,
+    "title": "Masculin Féminin",
+    "year": 1966,
+    "runtime": 105,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "countries": [
+      "France",
+      "Sweden"
+    ],
+    "studios": [
+      "SF Studios",
+      "Sandrews",
+      "Anouchka Films",
+      "Argos films"
+    ]
+  },
+  {
+    "id": 8071,
+    "title": "Tout Va Bien",
+    "year": 1972,
+    "runtime": 95,
+    "genres": [
+      "Drama"
+    ],
+    "countries": [
+      "France",
+      "Italy"
+    ],
+    "studios": [
+      "Anouchka Films",
+      "Vieco Films",
+      "Empire Films"
+    ]
+  },
+  {
+    "id": 8072,
+    "title": "Alphaville",
+    "year": 1965,
+    "runtime": 99,
+    "genres": [
+      "Drama",
+      "Science Fiction",
+      "Mystery"
+    ],
+    "countries": [
+      "France",
+      "Italy"
+    ],
+    "studios": [
+      "Filmstudio",
+      "Athos Films",
+      "Chaumiane",
+      "André Michelin Productions"
+    ]
+  },
+  {
+    "id": 8073,
+    "title": "Band of Outsiders",
+    "year": 1964,
+    "runtime": 97,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Comedy"
+    ],
+    "countries": [
+      "France"
+    ],
+    "studios": [
+      "Orsay Films",
+      "Anouchka Films"
+    ]
+  },
+  {
+    "id": 8074,
+    "title": "2 or 3 Things I Know About Her",
+    "year": 1967,
+    "runtime": 87,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "countries": [
+      "France"
+    ],
+    "studios": [
+      "Argos films",
+      "Anouchka Films",
+      "Les Films du Carrosse",
+      "Parc Film"
+    ]
+  },
+  {
+    "id": 8075,
+    "title": "Weekend",
+    "year": 1967,
+    "runtime": 104,
+    "genres": [
+      "Comedy"
+    ],
+    "countries": [
+      "France",
+      "Italy"
+    ],
+    "studios": [
+      "Cinecidi",
+      "Comacico",
+      "Les Films Copernic",
+      "Lira Films"
+    ]
+  },
+  {
+    "id": 31522,
+    "title": "A Woman Is a Woman",
+    "year": 1961,
+    "runtime": 83,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "countries": [
+      "France",
+      "Italy"
+    ],
+    "studios": [
+      "Euro International Films",
+      "Rome-Paris Films"
+    ]
+  },
+  {
+    "id": 32689,
+    "title": "First Name: Carmen",
+    "year": 1983,
+    "runtime": 85,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Comedy",
+      "Romance"
+    ],
+    "countries": [
+      "France",
+      "Switzerland"
+    ],
+    "studios": [
+      "Sara Films",
+      "JLG Films",
+      "Films A2"
+    ]
+  },
+  {
+    "id": 32691,
+    "title": "Nouvelle Vague",
+    "year": 1990,
+    "runtime": 89,
+    "genres": [
+      "Drama"
+    ],
+    "countries": [
+      "Switzerland",
+      "France"
+    ],
+    "studios": [
+      "Périphéria",
+      "Vega Film",
+      "TSR",
+      "Antenne 2",
+      "Soficas Investimages",
+      "Sofica Créations",
+      "CNC",
+      "Canal+",
+      "Sara Films"
+    ]
+  },
+  {
+    "id": 32692,
+    "title": "Godard's Passion",
+    "year": 1982,
+    "runtime": 87,
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "countries": [
+      "France",
+      "Switzerland"
+    ],
+    "studios": [
+      "Sara Films",
+      "Sonimage",
+      "Films A2",
+      "Film et Video Productions",
+      "SRG SSR"
+    ]
+  },
+  {
+    "id": 32720,
+    "title": "Hail Mary",
+    "year": 1985,
+    "runtime": 72,
+    "genres": [
+      "Drama"
+    ],
+    "countries": [
+      "France",
+      "Switzerland",
+      "United Kingdom"
+    ],
+    "studios": [
+      "Gaumont",
+      "Sara Films",
+      "Pégase Films",
+      "JLG Films",
+      "TSR",
+      "Channel Four Films"
+    ]
+  },
+  {
+    "id": 26347,
+    "title": "Notre Musique",
+    "year": 2004,
+    "runtime": 80,
+    "genres": [
+      "Drama"
+    ],
+    "countries": [
+      "France",
+      "Switzerland"
+    ],
+    "studios": [
+      "Avventura Films",
+      "TSR",
+      "Périphéria",
+      "Vega Film",
+      "Canal+",
+      "France 3 Cinéma",
+      "DFI"
+    ]
+  },
+  {
+    "id": 40652,
+    "title": "The Married Woman",
+    "year": 1964,
+    "runtime": 95,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "countries": [
+      "France"
+    ],
+    "studios": [
+      "Orsay Films",
+      "Anouchka Films"
+    ]
+  },
+  {
+    "id": 36140,
+    "title": "Far from Vietnam",
+    "year": 1967,
+    "runtime": 116,
+    "genres": [
+      "Documentary",
+      "War",
+      "Drama"
+    ],
+    "countries": [
+      "Belgium",
+      "France"
+    ],
+    "studios": [
+      "Societe pour le Lancement des Oeuvres Nouvelles (SLON)"
+    ]
+  },
+  {
+    "id": 29369,
+    "title": "Made in U.S.A",
+    "year": 1967,
+    "runtime": 85,
+    "genres": [
+      "Crime",
+      "Mystery",
+      "Comedy"
+    ],
+    "countries": [
+      "France"
+    ],
+    "studios": [
+      "S.E.P.I.C.",
+      "Rome-Paris Films",
+      "Anouchka Films"
+    ]
+  },
+  {
+    "id": 65612,
+    "title": "Keep Your Right Up",
+    "year": 1987,
+    "runtime": 82,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ],
+    "countries": [
+      "France",
+      "Switzerland"
+    ],
+    "studios": [
+      "Gaumont",
+      "JLG Films",
+      "TSR",
+      "Xanadu Film AG"
+    ]
+  },
+  {
+    "id": 49456,
+    "title": "Love and Anger",
+    "year": 1969,
+    "runtime": 102,
+    "genres": [
+      "Drama"
+    ],
+    "countries": [
+      "France",
+      "Italy"
+    ],
+    "studios": [
+      "Ital-Noleggio Cinematografico",
+      "Castoro Film",
+      "Anouchka Films"
+    ]
+  },
+  {
+    "id": 50012,
+    "title": "King Lear",
+    "year": 1988,
+    "runtime": 90,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "countries": [
+      "United States of America"
+    ],
+    "studios": [
+      "The Cannon Group",
+      "Golan-Globus Productions"
+    ]
+  },
+  {
+    "id": 52705,
+    "title": "Les Carabiniers",
+    "year": 1963,
+    "runtime": 80,
+    "genres": [
+      "War",
+      "Drama",
+      "Comedy"
+    ],
+    "countries": [
+      "France",
+      "Italy"
+    ],
+    "studios": [
+      "Rome-Paris Films",
+      "Cocinor",
+      "Les Films Marceau",
+      "Laetitia Film"
+    ]
+  },
+  {
+    "id": 52710,
+    "title": "Detective",
+    "year": 1985,
+    "runtime": 95,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "countries": [
+      "France",
+      "Switzerland"
+    ],
+    "studios": [
+      "Sara Films",
+      "JLG Films"
+    ]
+  },
+  {
+    "id": 52713,
+    "title": "Oh, Woe Is Me",
+    "year": 1993,
+    "runtime": 83,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "countries": [
+      "Switzerland",
+      "France"
+    ],
+    "studios": [
+      "Vega Film",
+      "Les Films Alain Sarde",
+      "Périphéria"
+    ]
+  },
+  {
+    "id": 52717,
+    "title": "In Praise of Love",
+    "year": 2001,
+    "runtime": 99,
+    "genres": [
+      "Drama"
+    ],
+    "countries": [
+      "France",
+      "Switzerland",
+      "Germany"
+    ],
+    "studios": [
+      "Avventura Films",
+      "Périphéria",
+      "ARTE France Cinéma",
+      "Vega Film",
+      "TSR",
+      "DFI",
+      "ECM Records",
+      "StudioCanal",
+      "DFF - Deutsches Filminstitut & Filmmuseum",
+      "Studio Images 6"
+    ]
+  },
+  {
+    "id": 50785,
+    "title": "Le Petit Soldat",
+    "year": 1963,
+    "runtime": 87,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "countries": [
+      "France"
+    ],
+    "studios": [
+      "Les Productions Georges de Beauregard",
+      "SNC"
+    ]
+  },
+  {
+    "id": 50789,
+    "title": "Sympathy for the Devil",
+    "year": 1968,
+    "runtime": 115,
+    "genres": [
+      "Documentary",
+      "Music"
+    ],
+    "countries": [
+      "United Kingdom"
+    ],
+    "studios": [
+      "Cupid Productions"
+    ]
+  },
+  {
+    "id": 53016,
+    "title": "Germany Year 90 Nine Zero",
+    "year": 1993,
+    "runtime": 63,
+    "genres": [
+      "Drama"
+    ],
+    "countries": [
+      "France"
+    ],
+    "studios": [
+      "Gaumont",
+      "Production Brainstorm",
+      "Antenne 2"
+    ]
+  },
+  {
+    "id": 51205,
+    "title": "Le Gai Savoir",
+    "year": 1969,
+    "runtime": 95,
+    "genres": [
+      "Drama"
+    ],
+    "countries": [
+      "Germany",
+      "France"
+    ],
+    "studios": [
+      "Anouchka Films",
+      "ORTF",
+      "Bavaria Film",
+      "Süddeutscher Rundfunk"
+    ]
+  },
+  {
+    "id": 51808,
+    "title": "Six in Paris",
+    "year": 1965,
+    "runtime": 95,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "countries": [
+      "France"
+    ],
+    "studios": [
+      "Les Films du Losange",
+      "Les Filmes du Cyprès"
+    ]
+  },
+  {
+    "id": 54083,
+    "title": "Film Socialisme",
+    "year": 2010,
+    "runtime": 102,
+    "genres": [
+      "Drama"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "studios": [
+      "Vega Film"
+    ]
+  },
+  {
+    "id": 103613,
+    "title": "The Oldest Profession",
+    "year": 1967,
+    "runtime": 119,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "countries": [
+      "Germany",
+      "France",
+      "Italy"
+    ],
+    "studios": [
+      "Francoriz Production",
+      "Les Films Gibé",
+      "Rialto Film",
+      "Rizzoli Film"
+    ]
+  },
+  {
+    "id": 59045,
+    "title": "Ro.Go.Pa.G.",
+    "year": 1963,
+    "runtime": 122,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "countries": [
+      "France",
+      "Italy"
+    ],
+    "studios": [
+      "Arco Film",
+      "Cineriz",
+      "Societé Cinématographique Lyre"
+    ]
+  },
+  {
+    "id": 79591,
+    "title": "Ten Minutes Older: The Cello",
+    "year": 2002,
+    "runtime": 101,
+    "genres": [
+      "Science Fiction",
+      "Drama",
+      "Romance"
+    ],
+    "countries": [
+      "France",
+      "United Kingdom",
+      "Germany"
+    ],
+    "studios": [
+      "Why Not Productions",
+      "Matador Pictures",
+      "Road Movies",
+      "AtomFilms",
+      "Diablo Films",
+      "Kuzui Enterprises"
+    ]
+  },
+  {
+    "id": 104931,
+    "title": "JLG/JLG: Self-Portrait in December",
+    "year": 1995,
+    "runtime": 62,
+    "genres": [
+      "Documentary"
+    ],
+    "countries": [
+      "France"
+    ],
+    "studios": [
+      "Périphéria",
+      "Gaumont"
+    ]
+  },
+  {
+    "id": 114982,
+    "title": "Goodbye to Language",
+    "year": 2014,
+    "runtime": 69,
+    "genres": [
+      "Drama"
+    ],
+    "countries": [
+      "France"
+    ],
+    "studios": [
+      "Wild Bunch"
+    ]
+  },
+  {
+    "id": 112823,
+    "title": "Number Two",
+    "year": 1975,
+    "runtime": 88,
+    "genres": [
+      "Drama"
+    ],
+    "countries": [
+      "France"
+    ],
+    "studios": [
+      "Bela Productions",
+      "SNC",
+      "Sonimage"
+    ]
+  },
+  {
+    "id": 111367,
+    "title": "For Ever Mozart",
+    "year": 1996,
+    "runtime": 85,
+    "genres": [
+      "Drama",
+      "Comedy",
+      "War"
+    ],
+    "countries": [
+      "France",
+      "Switzerland",
+      "Germany"
+    ],
+    "studios": [
+      "Avventura Films",
+      "Périphéria",
+      "France 2 Cinéma",
+      "Canal+",
+      "CNC",
+      "Vega Film",
+      "TSR",
+      "Eurimages",
+      "DFF - Deutsches Filminstitut & Filmmuseum",
+      "ECM Records",
+      "Auvergne-Rhône-Alpes Cinéma"
+    ]
+  },
+  {
+    "id": 113479,
+    "title": "Every Man for Himself",
+    "year": 1980,
+    "runtime": 87,
+    "genres": [
+      "Drama"
+    ],
+    "countries": [
+      "Austria",
+      "France",
+      "Germany",
+      "Switzerland"
+    ],
+    "studios": [
+      "MK2 Films",
+      "Sara Films",
+      "SAGA Production",
+      "Sonimage",
+      "CNC",
+      "ZDF",
+      "SRG SSR",
+      "ORF"
+    ]
+  },
+  {
+    "id": 113629,
+    "title": "Wind from the East",
+    "year": 1970,
+    "runtime": 100,
+    "genres": [
+      "Drama",
+      "Western"
+    ],
+    "countries": [
+      "France",
+      "Germany",
+      "Italy"
+    ],
+    "studios": [
+      "Anouchka Films",
+      "Polifilm",
+      "CCC Filmkunst",
+      "Groupe Dziga Vertov"
+    ]
+  },
+  {
+    "id": 271799,
+    "title": "Rise and Fall of a Small Film Company",
+    "year": 1986,
+    "runtime": 92,
+    "genres": [
+      "TV Movie",
+      "Drama"
+    ],
+    "countries": [
+      "France",
+      "Switzerland"
+    ],
+    "studios": [
+      "Hamster Productions",
+      "JLG Films",
+      "RTL",
+      "TF1 International",
+      "TSR"
+    ]
+  },
+  {
+    "id": 78786,
+    "title": "The World's Most Beautiful Swindlers",
+    "year": 1964,
+    "runtime": 108,
+    "genres": [
+      "Crime",
+      "Comedy"
+    ],
+    "countries": [
+      "France",
+      "Italy",
+      "Japan",
+      "Netherlands"
+    ],
+    "studios": [
+      "Primex Films",
+      "Ulysse Productions",
+      "Lux Compagnie Cinématographique de France",
+      "Vides Cinematografica",
+      "TOHO",
+      "Cesar Film Productie"
+    ]
+  },
+  {
+    "id": 293425,
+    "title": "Struggle in Italy",
+    "year": 1971,
+    "runtime": 60,
+    "genres": [
+      "Drama"
+    ],
+    "countries": [
+      "France",
+      "Italy"
+    ],
+    "studios": [
+      "Cosmoseion",
+      "RAI",
+      "Anouchka Films",
+      "Groupe Dziga Vertov"
+    ]
+  },
+  {
+    "id": 414030,
+    "title": "The Image Book",
+    "year": 2018,
+    "runtime": 88,
+    "genres": [
+      "Documentary",
+      "Drama"
+    ],
+    "countries": [
+      "France",
+      "Switzerland"
+    ],
+    "studios": [
+      "Casa Azul Films",
+      "Écran noir productions"
+    ]
+  },
+  {
+    "id": 25832,
+    "title": "Aria",
+    "year": 1987,
+    "runtime": 97,
+    "genres": [
+      "Music",
+      "Comedy",
+      "Drama"
+    ],
+    "countries": [
+      "United Kingdom",
+      "United States of America"
+    ],
+    "studios": [
+      "Lightyear Entertainment",
+      "Virgin Vision"
+    ]
+  },
+  {
+    "id": 147,
+    "title": "The 400 Blows",
+    "year": 1959,
+    "runtime": 99,
+    "genres": [
+      "Drama"
+    ],
+    "countries": [
+      "France"
+    ],
+    "studios": [
+      "Les Films du Carrosse",
+      "Sédif Productions"
+    ]
+  },
+  {
+    "id": 255,
+    "title": "Stolen Kisses",
+    "year": 1968,
+    "runtime": 90,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "countries": [
+      "France"
+    ],
+    "studios": [
+      "Les Films du Carrosse",
+      "Les Productions Artistes Associés"
+    ]
+  },
+  {
+    "id": 258,
+    "title": "Bed and Board",
+    "year": 1970,
+    "runtime": 97,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "countries": [
+      "France",
+      "Italy"
+    ],
+    "studios": [
+      "Valoria Films",
+      "Fida Cinematografica",
+      "Les Films du Carrosse"
+    ]
+  },
+  {
+    "id": 259,
+    "title": "Love on the Run",
+    "year": 1979,
+    "runtime": 93,
+    "genres": [
+      "Romance",
+      "Drama",
+      "Comedy"
+    ],
+    "countries": [
+      "France"
+    ],
+    "studios": [
+      "Les Films du Carrosse"
+    ]
+  },
+  {
+    "id": 1421,
+    "title": "The Man Who Loved Women",
+    "year": 1977,
+    "runtime": 119,
+    "genres": [
+      "Drama",
+      "Comedy",
+      "Romance"
+    ],
+    "countries": [
+      "France"
+    ],
+    "studios": [
+      "Les Films du Carrosse",
+      "Les Productions Artistes Associés"
+    ]
+  },
+  {
+    "id": 1627,
+    "title": "The Wild Child",
+    "year": 1970,
+    "runtime": 83,
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "countries": [
+      "France"
+    ],
+    "studios": [
+      "Les Films du Carrosse",
+      "Les Productions Artistes Associés"
+    ]
+  },
+  {
+    "id": 1651,
+    "title": "Mississippi Mermaid",
+    "year": 1969,
+    "runtime": 123,
+    "genres": [
+      "Romance",
+      "Drama",
+      "Crime",
+      "Thriller"
+    ],
+    "countries": [
+      "France",
+      "Italy"
+    ],
+    "studios": [
+      "Produzioni Associate Delphos",
+      "Les Films du Carrosse",
+      "Les Productions Artistes Associés"
+    ]
+  },
+  {
+    "id": 1660,
+    "title": "Small Change",
+    "year": 1976,
+    "runtime": 104,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "countries": [
+      "France"
+    ],
+    "studios": [
+      "Les Productions Artistes Associés",
+      "Les Films du Carrosse"
+    ]
+  },
+  {
+    "id": 1628,
+    "title": "Jules and Jim",
+    "year": 1962,
+    "runtime": 106,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "countries": [
+      "France"
+    ],
+    "studios": [
+      "Les Films du Carrosse",
+      "Sédif Productions (as S.E.D.I.F.)"
+    ]
+  },
+  {
+    "id": 1675,
+    "title": "Day for Night",
+    "year": 1973,
+    "runtime": 116,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "countries": [
+      "France",
+      "Italy"
+    ],
+    "studios": [
+      "Les Films du Carrosse",
+      "Productions et Éditions Cinématographiques Françaises",
+      "Produzione Intercontinentale Cinematografica (PIC)"
+    ]
+  },
+  {
+    "id": 1716,
+    "title": "The Last Metro",
+    "year": 1980,
+    "runtime": 131,
+    "genres": [
+      "Drama",
+      "Romance",
+      "War"
+    ],
+    "countries": [
+      "France"
+    ],
+    "studios": [
+      "Les Films du Carrosse",
+      "Sédif Productions",
+      "SFP",
+      "TF1 Films Production",
+      "TF1"
+    ]
+  },
+  {
+    "id": 1719,
+    "title": "The Soft Skin",
+    "year": 1964,
+    "runtime": 119,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "countries": [
+      "France"
+    ],
+    "studios": [
+      "Les Films du Carrosse",
+      "Societé d'Exploitation et de Distribution de Films (SEDIF)",
+      "Simar Films"
+    ]
+  },
+  {
+    "id": 2455,
+    "title": "Confidentially Yours",
+    "year": 1983,
+    "runtime": 110,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Mystery"
+    ],
+    "countries": [
+      "France"
+    ],
+    "studios": [
+      "Soprofilms",
+      "Films A2"
+    ]
+  },
+  {
+    "id": 1829,
+    "title": "The Story of Adèle H.",
+    "year": 1975,
+    "runtime": 98,
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "countries": [
+      "France"
+    ],
+    "studios": [
+      "Les Films du Carrosse",
+      "Les Productions Artistes Associés"
+    ]
+  },
+  {
+    "id": 1818,
+    "title": "Shoot the Piano Player",
+    "year": 1960,
+    "runtime": 85,
+    "genres": [
+      "Drama",
+      "Thriller",
+      "Crime"
+    ],
+    "countries": [
+      "France"
+    ],
+    "studios": [
+      "Les Films de la Pléiade"
+    ]
+  },
+  {
+    "id": 4191,
+    "title": "The Bride Wore Black",
+    "year": 1968,
+    "runtime": 107,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "countries": [
+      "France",
+      "Italy"
+    ],
+    "studios": [
+      "DDL Cinematografica",
+      "Les Films du Carrosse",
+      "Les Productions Artistes Associés"
+    ]
+  },
+  {
+    "id": 4683,
+    "title": "A Gorgeous Girl Like Me",
+    "year": 1972,
+    "runtime": 98,
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "countries": [
+      "France"
+    ],
+    "studios": [
+      "Columbia Films",
+      "Les Films du Carrosse"
+    ]
+  },
+  {
+    "id": 8070,
+    "title": "The Green Room",
+    "year": 1978,
+    "runtime": 95,
+    "genres": [
+      "Drama"
+    ],
+    "countries": [
+      "France"
+    ],
+    "studios": [
+      "Les Films du Carrosse",
+      "Les Productions Artistes Associés"
+    ]
+  },
+  {
+    "id": 8773,
+    "title": "Love at Twenty",
+    "year": 1962,
+    "runtime": 120,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "countries": [
+      "Germany",
+      "France",
+      "Italy",
+      "Japan",
+      "Poland"
+    ],
+    "studios": [
+      "Ulysse Productions",
+      "Unitec Films",
+      "Cinesecolo",
+      "TOHO",
+      "Beta Film",
+      "Zespół Filmowy \"Kamera\""
+    ]
+  },
+  {
+    "id": 12579,
+    "title": "The Woman Next Door",
+    "year": 1981,
+    "runtime": 106,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "countries": [
+      "France"
+    ],
+    "studios": [
+      "Les Films du Carrosse",
+      "TF1 Films Production"
+    ]
+  },
+  {
+    "id": 42513,
+    "title": "Two English Girls",
+    "year": 1971,
+    "runtime": 130,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "countries": [
+      "France"
+    ],
+    "studios": [
+      "Cinétel",
+      "Les Films du Carrosse"
+    ]
+  },
+  {
+    "id": 1714,
+    "title": "Fahrenheit 451",
+    "year": 1966,
+    "runtime": 113,
+    "genres": [
+      "Drama",
+      "Science Fiction"
+    ],
+    "countries": [
+      "United Kingdom"
+    ],
+    "studios": [
+      "Anglo Enterprises",
+      "Vineyard Film"
+    ]
+  },
+  {
+    "id": 1052,
+    "title": "Blow-Up",
+    "year": 1966,
+    "runtime": 111,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "countries": [
+      "United Kingdom",
+      "United States of America",
+      "Italy"
+    ],
+    "studios": [
+      "Bridge Films",
+      "Carlo Ponti Production",
+      "Metro-Goldwyn-Mayer"
+    ]
+  },
+  {
+    "id": 2998,
+    "title": "Zabriskie Point",
+    "year": 1970,
+    "runtime": 113,
+    "genres": [
+      "Drama"
+    ],
+    "countries": [
+      "Italy",
+      "United States of America"
+    ],
+    "studios": [
+      "Metro-Goldwyn-Mayer",
+      "Carlo Ponti Production"
+    ]
+  },
+  {
+    "id": 21135,
+    "title": "L'Eclisse",
+    "year": 1962,
+    "runtime": 126,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "countries": [
+      "France",
+      "Italy"
+    ],
+    "studios": [
+      "Cineriz",
+      "Interopa Film",
+      "Paris-Film Production"
+    ]
+  },
+  {
+    "id": 5165,
+    "title": "L'Avventura",
+    "year": 1960,
+    "runtime": 144,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Romance"
+    ],
+    "countries": [
+      "France",
+      "Italy"
+    ],
+    "studios": [
+      "Cino del Duca",
+      "Societé Cinématographique Lyre",
+      "Produzioni Cinematografiche Europee (P.C.E.)"
+    ]
+  },
+  {
+    "id": 33517,
+    "title": "Beyond the Clouds",
+    "year": 1995,
+    "runtime": 110,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "countries": [
+      "Italy",
+      "Germany",
+      "France"
+    ],
+    "studios": [
+      "Cecchi Gori Group Tiger Cinematografica",
+      "Sunshine",
+      "Ciné B",
+      "France 3 Cinéma",
+      "Road Movies"
+    ]
+  },
+  {
+    "id": 33126,
+    "title": "Chung Kuo: China",
+    "year": 1972,
+    "runtime": 208,
+    "genres": [
+      "Documentary"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "studios": [
+      "RAI"
+    ]
+  },
+  {
+    "id": 26638,
+    "title": "Red Desert",
+    "year": 1964,
+    "runtime": 117,
+    "genres": [
+      "Drama"
+    ],
+    "countries": [
+      "France",
+      "Italy"
+    ],
+    "studios": [
+      "Federiz",
+      "Francoriz Production",
+      "Film Duemila"
+    ]
+  },
+  {
+    "id": 9652,
+    "title": "The Passenger",
+    "year": 1975,
+    "runtime": 126,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "countries": [
+      "France",
+      "Italy",
+      "Spain"
+    ],
+    "studios": [
+      "C. C. Champion",
+      "CIPI Cinematografica S.A.",
+      "Les Films Concordia"
+    ]
+  },
+  {
+    "id": 41050,
+    "title": "La Notte",
+    "year": 1961,
+    "runtime": 122,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "countries": [
+      "Italy",
+      "France"
+    ],
+    "studios": [
+      "Nepi Film",
+      "Silver Films",
+      "Sofitedip"
+    ]
+  },
+  {
+    "id": 41054,
+    "title": "Il Grido",
+    "year": 1957,
+    "runtime": 115,
+    "genres": [
+      "Drama"
+    ],
+    "countries": [
+      "United States of America",
+      "Italy"
+    ],
+    "studios": [
+      "SpA Cinematografica",
+      "Robert Alexander Productions"
+    ]
+  },
+  {
+    "id": 46979,
+    "title": "Le Amiche",
+    "year": 1955,
+    "runtime": 104,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "studios": [
+      "Trionfalcine"
+    ]
+  },
+  {
+    "id": 39850,
+    "title": "Eros",
+    "year": 2004,
+    "runtime": 109,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "countries": [
+      "France",
+      "Hong Kong",
+      "Italy",
+      "Luxembourg",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "studios": [
+      "Block 2 Pictures",
+      "Solaris Film",
+      "Delux Productions",
+      "Roissy Films",
+      "Fandango",
+      "Cité Films",
+      "Jet Tone Production"
+    ]
+  },
+  {
+    "id": 49781,
+    "title": "Story of a Love Affair",
+    "year": 1950,
+    "runtime": 98,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "studios": [
+      "Fincine",
+      "Villani Film"
+    ]
+  },
+  {
+    "id": 53234,
+    "title": "Identification of a Woman",
+    "year": 1982,
+    "runtime": 128,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "countries": [
+      "France",
+      "Italy"
+    ],
+    "studios": [
+      "Gaumont",
+      "RAI",
+      "Iter Film"
+    ]
+  },
+  {
+    "id": 90770,
+    "title": "The Vanquished",
+    "year": 1953,
+    "runtime": 113,
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "countries": [
+      "France",
+      "Italy"
+    ],
+    "studios": [
+      "Film Costellazione",
+      "Société Générale de Cinématographie (S.G.C.)"
+    ]
+  },
+  {
+    "id": 93863,
+    "title": "The Lady Without Camelias",
+    "year": 1953,
+    "runtime": 97,
+    "genres": [
+      "Drama"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "studios": [
+      "Produzioni D. Forges Davanzati",
+      "ENIC"
+    ]
+  },
+  {
+    "id": 130719,
+    "title": "The Mystery of Oberwald",
+    "year": 1981,
+    "runtime": 129,
+    "genres": [
+      "Drama",
+      "Romance",
+      "TV Movie"
+    ],
+    "countries": [
+      "Germany",
+      "Italy"
+    ],
+    "studios": [
+      "RAI",
+      "Polytel International Film"
+    ]
+  },
+  {
+    "id": 108,
+    "title": "Three Colors: Blue",
+    "year": 1993,
+    "runtime": 98,
+    "genres": [
+      "Drama"
+    ],
+    "countries": [
+      "France",
+      "Poland",
+      "Switzerland"
+    ],
+    "studios": [
+      "MK2 Films",
+      "CED Productions",
+      "CAB Productions",
+      "Studio Filmowe Tor"
+    ]
+  },
+  {
+    "id": 109,
+    "title": "Three Colors: White",
+    "year": 1994,
+    "runtime": 92,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Mystery"
+    ],
+    "countries": [
+      "France",
+      "Poland",
+      "Switzerland"
+    ],
+    "studios": [
+      "MK2 Films",
+      "France 3 Cinéma",
+      "CAB Productions",
+      "Studio Filmowe Tor"
+    ]
+  },
+  {
+    "id": 110,
+    "title": "Three Colors: Red",
+    "year": 1994,
+    "runtime": 100,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Romance"
+    ],
+    "countries": [
+      "France",
+      "Poland",
+      "Switzerland"
+    ],
+    "studios": [
+      "MK2 Films",
+      "France 3 Cinéma",
+      "CAB Productions",
+      "Studio Filmowe Tor"
+    ]
+  },
+  {
+    "id": 124,
+    "title": "No End",
+    "year": 1985,
+    "runtime": 108,
+    "genres": [
+      "Drama"
+    ],
+    "countries": [
+      "Poland"
+    ],
+    "studios": [
+      "Studio Filmowe Tor"
+    ]
+  },
+  {
+    "id": 127,
+    "title": "Blind Chance",
+    "year": 1987,
+    "runtime": 117,
+    "genres": [
+      "Drama"
+    ],
+    "countries": [
+      "Poland"
+    ],
+    "studios": [
+      "Zespół Filmowy \"Tor\""
+    ]
+  },
+  {
+    "id": 1600,
+    "title": "The Double Life of Véronique",
+    "year": 1991,
+    "runtime": 98,
+    "genres": [
+      "Drama",
+      "Fantasy"
+    ],
+    "countries": [
+      "France",
+      "Norway",
+      "Poland"
+    ],
+    "studios": [
+      "Sidéral Productions",
+      "Norsk Film",
+      "Studio Filmowe Tor",
+      "Le Studio Canal+"
+    ]
+  },
+  {
+    "id": 10754,
+    "title": "A Short Film About Killing",
+    "year": 1988,
+    "runtime": 85,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "countries": [
+      "Poland"
+    ],
+    "studios": [
+      "PRF \"Zespoły Filmowe\"",
+      "Zespół Filmowy \"Tor\""
+    ]
+  },
+  {
+    "id": 31056,
+    "title": "A Short Film About Love",
+    "year": 1988,
+    "runtime": 87,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "countries": [
+      "Poland"
+    ],
+    "studios": [
+      "Wytwórnia Filmów Dokumentalnych i Fabularnych",
+      "Studio Filmowe Tor"
+    ]
+  },
+  {
+    "id": 42164,
+    "title": "Camera Buff",
+    "year": 1979,
+    "runtime": 112,
+    "genres": [
+      "Drama"
+    ],
+    "countries": [
+      "Poland"
+    ],
+    "studios": [
+      "Studio Filmowe Tor"
+    ]
+  },
+  {
+    "id": 49134,
+    "title": "The Scar",
+    "year": 1976,
+    "runtime": 106,
+    "genres": [
+      "Drama"
+    ],
+    "countries": [
+      "Poland"
+    ],
+    "studios": [
+      "Zespół Filmowy \"Tor\""
+    ]
+  },
+  {
+    "id": 145,
+    "title": "Breaking the Waves",
+    "year": 1996,
+    "runtime": 159,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "countries": [
+      "Denmark",
+      "France",
+      "Netherlands",
+      "Norway",
+      "Sweden"
+    ],
+    "studios": [
+      "Zentropa Entertainments",
+      "Liberator Productions",
+      "Trust Film Svenska",
+      "Argus Film Produktie",
+      "Northern Lights",
+      "SVT Drama",
+      "Nordisk Film & TV Fond",
+      "La Sept Cinéma",
+      "VPRO",
+      "Media Investment Club"
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Dancer in the Dark",
+    "year": 2000,
+    "runtime": 140,
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "countries": [
+      "Denmark",
+      "Finland",
+      "France",
+      "Germany",
+      "Iceland",
+      "Netherlands",
+      "Norway",
+      "Sweden"
+    ],
+    "studios": [
+      "Zentropa Entertainments",
+      "DR",
+      "SVT Drama",
+      "ARTE",
+      "France 3 Cinéma",
+      "Blind Spot Pictures",
+      "Liberator Productions",
+      "Íslenska kvikmyndasamsteypan",
+      "Pain Unlimited Filmproduktion",
+      "Trust Film Svenska",
+      "Cinematograph",
+      "What Else?",
+      "ARTE France Cinéma",
+      "Film i Väst",
+      "WDR"
+    ]
+  },
+  {
+    "id": 452,
+    "title": "The Idiots",
+    "year": 1998,
+    "runtime": 110,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "countries": [
+      "Denmark",
+      "France",
+      "Germany",
+      "Netherlands"
+    ],
+    "studios": [
+      "Zentropa Entertainments",
+      "DR TV",
+      "La Sept Cinéma",
+      "Liberator Productions",
+      "VPRO",
+      "Argus Film Produktie",
+      "ZDF/Arte"
+    ]
+  },
+  {
+    "id": 553,
+    "title": "Dogville",
+    "year": 2003,
+    "runtime": 178,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "countries": [
+      "Denmark",
+      "Finland",
+      "France",
+      "Germany",
+      "Netherlands",
+      "Norway",
+      "Sweden",
+      "United Kingdom",
+      "Italy"
+    ],
+    "studios": [
+      "Zentropa Entertainments",
+      "Isabella Films B.V.",
+      "Something Else B.V.",
+      "Memfis Film",
+      "Trollhättan Film",
+      "Pain Unlimited Filmproduktion",
+      "Sigma Films",
+      "Zoma Films",
+      "Slot Machine",
+      "Liberator Productions",
+      "Film i Väst",
+      "ARTE France Cinéma",
+      "France 3 Cinéma",
+      "WDR/Arte",
+      "DR",
+      "SVT",
+      "NPS",
+      "YLE",
+      "Norsk TV2 AS",
+      "Edith Film",
+      "Spillefilmselskapet 4 1/2",
+      "Fjeldabe Films AS",
+      "Invicta Capital",
+      "TV 1000 Sverige"
+    ]
+  },
+  {
+    "id": 1951,
+    "title": "Manderlay",
+    "year": 2005,
+    "runtime": 139,
+    "genres": [
+      "Drama"
+    ],
+    "countries": [
+      "Denmark",
+      "Finland",
+      "France",
+      "Germany",
+      "Netherlands",
+      "Sweden",
+      "United Kingdom",
+      "Italy"
+    ],
+    "studios": [
+      "Zentropa Entertainments",
+      "Isabella Films B.V.",
+      "Pain Unlimited Filmproduktion",
+      "Manderlay",
+      "Sigma Films",
+      "Memfis Film",
+      "Ognon Pictures",
+      "Film i Väst",
+      "DR",
+      "ARTE France Cinéma",
+      "SVT",
+      "WDR",
+      "ARTE",
+      "NPS",
+      "YLE"
+    ]
+  },
+  {
+    "id": 22137,
+    "title": "The Kingdom",
+    "year": 1994,
+    "runtime": 275,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Horror",
+      "Mystery"
+    ],
+    "countries": [
+      "Denmark",
+      "Sweden"
+    ],
+    "studios": [
+      "DR",
+      "SVT"
+    ]
+  },
+  {
+    "id": 22140,
+    "title": "The Kingdom II",
+    "year": 1998,
+    "runtime": 280,
+    "genres": [
+      "Mystery",
+      "Fantasy",
+      "Horror",
+      "Comedy",
+      "Drama"
+    ],
+    "countries": [
+      "Belgium",
+      "Denmark",
+      "France",
+      "Germany",
+      "Italy",
+      "Netherlands",
+      "Norway",
+      "Sweden"
+    ],
+    "studios": [
+      "DR",
+      "Greco",
+      "La Sept-Arte",
+      "Zentropa Entertainments",
+      "ARTE",
+      "Coproduction Office",
+      "Det Danske Filminstitut",
+      "Film i Väst",
+      "Liberator Productions",
+      "MEDIA Programme of the European Union",
+      "Nederlandse Omroepstichting (NOS)",
+      "Nordisk Film & TV Fond",
+      "NRK",
+      "RAI",
+      "SVT",
+      "SVT Malmö",
+      "TV Collaboration Fund",
+      "WDR"
+    ]
+  },
+  {
+    "id": 9063,
+    "title": "The Element of Crime",
+    "year": 1984,
+    "runtime": 104,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Science Fiction"
+    ],
+    "countries": [
+      "Denmark"
+    ],
+    "studios": [
+      "Det Danske Filminstitut",
+      "Per Holst Filmproduktion",
+      "Asta Film"
+    ]
+  },
+  {
+    "id": 9065,
+    "title": "Europa",
+    "year": 1991,
+    "runtime": 113,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "countries": [
+      "Denmark",
+      "France",
+      "Germany",
+      "Sweden"
+    ],
+    "studios": [
+      "Gérard Mital Productions",
+      "Nordisk Film Denmark",
+      "WMG Film",
+      "Svenska Filminstitutet",
+      "UGC"
+    ]
+  },
+  {
+    "id": 12456,
+    "title": "The Five Obstructions",
+    "year": 2003,
+    "runtime": 90,
+    "genres": [
+      "Documentary"
+    ],
+    "countries": [
+      "Belgium",
+      "Denmark",
+      "France",
+      "Switzerland"
+    ],
+    "studios": [
+      "Panic Productions",
+      "Wajnbrosse Productions",
+      "Almaz Film Productions",
+      "Zentropa Entertainments"
+    ]
+  },
+  {
+    "id": 34870,
+    "title": "Medea",
+    "year": 1989,
+    "runtime": 76,
+    "genres": [
+      "Drama",
+      "TV Movie"
+    ],
+    "countries": [
+      "Denmark"
+    ],
+    "studios": [
+      "DR"
+    ]
+  },
+  {
+    "id": 29445,
+    "title": "Epidemic",
+    "year": 1987,
+    "runtime": 106,
+    "genres": [
+      "Drama",
+      "Horror"
+    ],
+    "countries": [
+      "Denmark"
+    ],
+    "studios": [
+      "Det Danske Filminstitut",
+      "Elementfilm A/S"
+    ]
+  },
+  {
+    "id": 62215,
+    "title": "Melancholia",
+    "year": 2011,
+    "runtime": 130,
+    "genres": [
+      "Drama",
+      "Science Fiction"
+    ],
+    "countries": [
+      "Denmark",
+      "France",
+      "Germany",
+      "Sweden"
+    ],
+    "studios": [
+      "Zentropa Entertainments",
+      "Memfis Film",
+      "Zentropa International Sweden",
+      "Slot Machine",
+      "Liberator Productions",
+      "Zentropa International Köln",
+      "DR",
+      "Film i Väst",
+      "ARTE France Cinéma"
+    ]
+  },
+  {
+    "id": 17609,
+    "title": "Antichrist",
+    "year": 2009,
+    "runtime": 104,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Thriller"
+    ],
+    "countries": [
+      "Denmark",
+      "France",
+      "Germany",
+      "Italy",
+      "Poland",
+      "Sweden"
+    ],
+    "studios": [
+      "Zentropa Entertainments",
+      "Slot Machine",
+      "Memfis Film",
+      "Zentropa International Köln",
+      "Trollhättan Film",
+      "Lucky Red",
+      "Zentropa International Poland",
+      "DR",
+      "ARTE France Cinéma",
+      "Film i Väst",
+      "SVT",
+      "Groupe Grand Accord",
+      "Liberator Productions",
+      "ZDF/Arte"
+    ]
+  },
+  {
+    "id": 249397,
+    "title": "Nymphomaniac: Vol. II",
+    "year": 2013,
+    "runtime": 124,
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "countries": [
+      "Denmark",
+      "Germany",
+      "Belgium",
+      "France",
+      "Sweden"
+    ],
+    "studios": [
+      "Zentropa Entertainments",
+      "Zentropa International Köln",
+      "Zentropa International France",
+      "Zentropa International Sweden",
+      "Slot Machine",
+      "Caviar",
+      "Zenbelgie BVBA",
+      "ARTE France Cinéma",
+      "Film i Väst",
+      "Groupe Grand Accord"
+    ]
+  },
+  {
+    "id": 258216,
+    "title": "Nymphomaniac: Vol. I",
+    "year": 2013,
+    "runtime": 118,
+    "genres": [
+      "Drama"
+    ],
+    "countries": [
+      "Germany",
+      "Belgium",
+      "Denmark",
+      "France",
+      "Sweden"
+    ],
+    "studios": [
+      "Zentropa Entertainments",
+      "Zentropa International Köln",
+      "Slot Machine",
+      "Zentropa International France",
+      "Caviar",
+      "Zenbelgie BVBA",
+      "ARTE France Cinéma",
+      "Zentropa International Sweden",
+      "Film i Väst",
+      "Groupe Grand Accord"
+    ]
+  },
+  {
+    "id": 55178,
+    "title": "D-Day",
+    "year": 2000,
+    "runtime": 65,
+    "genres": [
+      "TV Movie",
+      "Crime",
+      "Drama"
+    ],
+    "countries": [
+      "Denmark"
+    ],
+    "studios": [
+      "Nimbus Film",
+      "Zentropa Entertainments"
+    ]
+  },
+  {
+    "id": 5206,
+    "title": "The Boss of It All",
+    "year": 2006,
+    "runtime": 99,
+    "genres": [
+      "Comedy"
+    ],
+    "countries": [
+      "Denmark",
+      "France",
+      "Italy",
+      "Sweden",
+      "Germany"
+    ],
+    "studios": [
+      "Zentropa Entertainments",
+      "Memfis Film",
+      "Slot Machine",
+      "Lucky Red",
+      "SVT",
+      "DR",
+      "Film i Väst",
+      "Liberator Productions",
+      "Orione Cinematografica",
+      "Pain Unlimited Filmproduktion",
+      "Trollhättan Film"
+    ]
+  },
+  {
+    "id": 398173,
+    "title": "The House That Jack Built",
+    "year": 2018,
+    "runtime": 152,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Crime",
+      "Thriller"
+    ],
+    "countries": [
+      "Denmark",
+      "France",
+      "Germany",
+      "Sweden"
+    ],
+    "studios": [
+      "Zentropa Entertainments",
+      "Copenhagen Film Fund",
+      "Copenhagen Film Fund",
+      "Slot Machine",
+      "Film i Väst",
+      "Zentropa International Sweden",
+      "Zentropa International France",
+      "Zentropa International Köln"
+    ]
+  },
+  {
+    "id": 445,
+    "title": "Caché",
+    "year": 2005,
+    "runtime": 118,
+    "genres": [
+      "Mystery",
+      "Drama",
+      "Thriller"
+    ],
+    "countries": [
+      "France",
+      "Austria",
+      "Germany",
+      "Italy"
+    ],
+    "studios": [
+      "Les Films du Losange",
+      "Wega Film",
+      "Bavaria Film",
+      "BiM Distribuzione",
+      "ARTE France Cinéma",
+      "France 3 Cinéma",
+      "ORF",
+      "WDR/Arte"
+    ]
+  },
+  {
+    "id": 1791,
+    "title": "The Piano Teacher",
+    "year": 2001,
+    "runtime": 131,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "countries": [
+      "France",
+      "Austria"
+    ],
+    "studios": [
+      "Wega Film",
+      "MK2 Films",
+      "Les Films Alain Sarde",
+      "ARTE France Cinéma"
+    ]
+  },
+  {
+    "id": 1987,
+    "title": "Benny's Video",
+    "year": 1992,
+    "runtime": 110,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "countries": [
+      "Austria",
+      "Switzerland"
+    ],
+    "studios": [
+      "Wega Film",
+      "Langfilm",
+      "Bernard Lang AG"
+    ]
+  },
+  {
+    "id": 10234,
+    "title": "Funny Games",
+    "year": 1997,
+    "runtime": 109,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Thriller"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "studios": [
+      "Wega Film",
+      "ORF"
+    ]
+  },
+  {
+    "id": 30970,
+    "title": "Code Unknown",
+    "year": 2000,
+    "runtime": 118,
+    "genres": [
+      "Drama"
+    ],
+    "countries": [
+      "France",
+      "Germany",
+      "Romania"
+    ],
+    "studios": [
+      "MK2 Films",
+      "Les Films Alain Sarde",
+      "ARTE France Cinéma",
+      "France 2 Cinéma",
+      "Bavaria Film",
+      "ZDF",
+      "Le Studio de Creation Cinematographique du Ministere de la Culture roumain",
+      "Filmex Romania"
+    ]
+  },
+  {
+    "id": 8461,
+    "title": "Funny Games",
+    "year": 2008,
+    "runtime": 111,
+    "genres": [
+      "Thriller",
+      "Horror"
+    ],
+    "countries": [
+      "United States of America",
+      "Austria",
+      "France",
+      "United Kingdom",
+      "Germany",
+      "Italy"
+    ],
+    "studios": [
+      "Celluloid Dreams",
+      "Halcyon Pictures",
+      "Tartan Films",
+      "X Filme International",
+      "Lucky Red",
+      "Belladonna Productions",
+      "Kinematograf"
+    ]
+  },
+  {
+    "id": 24190,
+    "title": "Time of the Wolf",
+    "year": 2003,
+    "runtime": 113,
+    "genres": [
+      "Drama"
+    ],
+    "countries": [
+      "France",
+      "Austria",
+      "Germany"
+    ],
+    "studios": [
+      "Les Films du Losange",
+      "Wega Film",
+      "Bavaria Film",
+      "France 3 Cinéma",
+      "ARTE France Cinéma"
+    ]
+  },
+  {
+    "id": 32761,
+    "title": "The Seventh Continent",
+    "year": 1989,
+    "runtime": 107,
+    "genres": [
+      "Drama"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "studios": [
+      "Wega Film"
+    ]
+  },
+  {
+    "id": 32764,
+    "title": "71 Fragments of a Chronology of Chance",
+    "year": 1995,
+    "runtime": 100,
+    "genres": [
+      "Drama"
+    ],
+    "countries": [
+      "Austria",
+      "Germany"
+    ],
+    "studios": [
+      "Wega Film",
+      "Camera-Filmproduktion"
+    ]
+  },
+  {
+    "id": 26891,
+    "title": "The Castle",
+    "year": 1997,
+    "runtime": 123,
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "countries": [
+      "Germany",
+      "Austria"
+    ],
+    "studios": [
+      "ARTE",
+      "Wega Film",
+      "BR"
+    ]
+  },
+  {
+    "id": 37903,
+    "title": "The White Ribbon",
+    "year": 2009,
+    "runtime": 144,
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "countries": [
+      "Italy",
+      "Germany",
+      "Austria",
+      "France"
+    ],
+    "studios": [
+      "Lucky Red",
+      "Wega Film",
+      "Les Films du Losange",
+      "X Filme Creative Pool"
+    ]
+  },
+  {
+    "id": 86837,
+    "title": "Amour",
+    "year": 2012,
+    "runtime": 127,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "countries": [
+      "France",
+      "Germany",
+      "Austria"
+    ],
+    "studios": [
+      "Les Films du Losange",
+      "X Filme Creative Pool",
+      "Wega Film",
+      "France 3 Cinéma",
+      "BR",
+      "WDR",
+      "ARD Degeto"
+    ]
+  },
+  {
+    "id": 399031,
+    "title": "Happy End",
+    "year": 2017,
+    "runtime": 110,
+    "genres": [
+      "Drama"
+    ],
+    "countries": [
+      "France",
+      "Germany",
+      "Austria"
+    ],
+    "studios": [
+      "Les Films du Losange",
+      "X Filme Creative Pool",
+      "Wega Film",
+      "ARTE France Cinéma",
+      "France 3 Cinéma",
+      "WDR",
+      "BR",
+      "ARTE"
+    ]
+  },
+  {
+    "id": 144,
+    "title": "Wings of Desire",
+    "year": 1987,
+    "runtime": 128,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "countries": [
+      "Germany",
+      "France"
+    ],
+    "studios": [
+      "Road Movies",
+      "Argos films",
+      "WDR",
+      "Wim Wenders Stiftung"
+    ]
+  },
+  {
+    "id": 318,
+    "title": "The Million Dollar Hotel",
+    "year": 2000,
+    "runtime": 122,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "countries": [
+      "Germany",
+      "United States of America"
+    ],
+    "studios": [
+      "Kintop Pictures",
+      "Wim Wenders Stiftung",
+      "Road Movies",
+      "Icon Productions"
+    ]
+  },
+  {
+    "id": 390,
+    "title": "Lisbon Story",
+    "year": 1994,
+    "runtime": 100,
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "countries": [
+      "Germany",
+      "Portugal"
+    ],
+    "studios": [
+      "Wim Wenders Stiftung",
+      "Madragoa Filmes",
+      "Road Movies",
+      "ARD"
+    ]
+  },
+  {
+    "id": 1595,
+    "title": "Land of Plenty",
+    "year": 2004,
+    "runtime": 123,
+    "genres": [
+      "Drama"
+    ],
+    "countries": [
+      "Canada",
+      "United States of America",
+      "Germany"
+    ],
+    "studios": [
+      "InDigEnt",
+      "Emotion Pictures",
+      "Reverse Angle International"
+    ]
+  },
+  {
+    "id": 655,
+    "title": "Paris, Texas",
+    "year": 1984,
+    "runtime": 145,
+    "genres": [
+      "Drama"
+    ],
+    "countries": [
+      "United Kingdom",
+      "Germany",
+      "France"
+    ],
+    "studios": [
+      "Road Movies",
+      "Argos films",
+      "WDR",
+      "Channel Four Films",
+      "Pro-ject Filmproduktion"
+    ]
+  },
+  {
+    "id": 10341,
+    "title": "Until the End of the World",
+    "year": 1991,
+    "runtime": 158,
+    "genres": [
+      "Drama",
+      "Science Fiction",
+      "Adventure"
+    ],
+    "countries": [
+      "Germany",
+      "Australia",
+      "France"
+    ],
+    "studios": [
+      "Wim Wenders Stiftung",
+      "Argos films",
+      "Village Roadshow",
+      "Road Movies"
+    ]
+  },
+  {
+    "id": 10434,
+    "title": "Faraway, So Close!",
+    "year": 1993,
+    "runtime": 146,
+    "genres": [
+      "Drama",
+      "Fantasy"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "studios": [
+      "Tobis",
+      "Road Movies"
+    ]
+  },
+  {
+    "id": 10834,
+    "title": "Kings of the Road",
+    "year": 1976,
+    "runtime": 176,
+    "genres": [
+      "Drama"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "studios": [
+      "Wim Wenders Productions",
+      "WDR",
+      "Wim Wenders Stiftung"
+    ]
+  },
+  {
+    "id": 2204,
+    "title": "Alice in the Cities",
+    "year": 1974,
+    "runtime": 110,
+    "genres": [
+      "Drama"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "studios": [
+      "Filmverlag der Autoren",
+      "WDR",
+      "Wim Wenders Stiftung"
+    ]
+  },
+  {
+    "id": 20017,
+    "title": "Wrong Move",
+    "year": 1975,
+    "runtime": 103,
+    "genres": [
+      "Drama"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "studios": [
+      "Wim Wenders Stiftung",
+      "Albatros Produktion",
+      "Solaris Film",
+      "WDR"
+    ]
+  },
+  {
+    "id": 30363,
+    "title": "The State of Things",
+    "year": 1982,
+    "runtime": 121,
+    "genres": [
+      "Drama"
+    ],
+    "countries": [
+      "Germany",
+      "United Kingdom",
+      "United States of America",
+      "Portugal",
+      "France",
+      "Spain",
+      "Netherlands"
+    ],
+    "studios": [
+      "Pro-ject Filmproduktion",
+      "ZDF",
+      "Artificial Eye",
+      "V.O. Filmes",
+      "Wim Wenders Productions",
+      "Gray City",
+      "Pari Films",
+      "Musidora Films",
+      "Film International",
+      "Road Movies"
+    ]
+  },
+  {
+    "id": 3527,
+    "title": "Don't Come Knocking",
+    "year": 2005,
+    "runtime": 123,
+    "genres": [
+      "Drama",
+      "Western"
+    ],
+    "countries": [
+      "France",
+      "Germany",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "studios": [
+      "Reverse Angle International",
+      "Reverse Angle Production",
+      "ARTE France Cinéma",
+      "EuroArts",
+      "Network Movie",
+      "Océan Films Distribution",
+      "Road Movies",
+      "HanWay Films",
+      "Sony Pictures Classics",
+      "ZDF/Arte",
+      "Wim Wenders Stiftung"
+    ]
+  },
+  {
+    "id": 11222,
+    "title": "The American Friend",
+    "year": 1977,
+    "runtime": 125,
+    "genres": [
+      "Drama",
+      "Thriller",
+      "Crime"
+    ],
+    "countries": [
+      "France",
+      "Germany"
+    ],
+    "studios": [
+      "Road Movies",
+      "Wim Wenders Productions",
+      "Les Films du Losange",
+      "WDR",
+      "Moli Films",
+      "Filmverlag der Autoren"
+    ]
+  },
+  {
+    "id": 23676,
+    "title": "Ten Minutes Older: The Trumpet",
+    "year": 2002,
+    "runtime": 92,
+    "genres": [
+      "Drama",
+      "Documentary"
+    ],
+    "countries": [
+      "China",
+      "Germany",
+      "Spain",
+      "Finland",
+      "United Kingdom"
+    ],
+    "studios": [
+      "Atom Films",
+      "JVC",
+      "Kuzui Enterprises"
+    ]
+  },
+  {
+    "id": 11779,
+    "title": "Buena Vista Social Club",
+    "year": 1999,
+    "runtime": 105,
+    "genres": [
+      "Documentary",
+      "Music"
+    ],
+    "countries": [
+      "Germany",
+      "United States of America",
+      "United Kingdom",
+      "France",
+      "Cuba"
+    ],
+    "studios": [
+      "Kintop Pictures",
+      "Road Movies"
+    ]
+  },
+  {
+    "id": 8886,
+    "title": "Palermo Shooting",
+    "year": 2008,
+    "runtime": 108,
+    "genres": [
+      "Drama"
+    ],
+    "countries": [
+      "Germany",
+      "France",
+      "Italy"
+    ],
+    "studios": [
+      "Rectangle Productions",
+      "P.O.R. Sicilia",
+      "Reverse Angle Production",
+      "ARTE France Cinéma",
+      "ZDF",
+      "Pictorion Pictures GmbH",
+      "Road Movies"
+    ]
+  },
+  {
+    "id": 28307,
+    "title": "Hammett",
+    "year": 1982,
+    "runtime": 98,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "countries": [
+      "United States of America"
+    ],
+    "studios": [
+      "American Zoetrope"
+    ]
+  },
+  {
+    "id": 42156,
+    "title": "Lightning Over Water",
+    "year": 1980,
+    "runtime": 91,
+    "genres": [
+      "Documentary"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "studios": [
+      "Basis-Film-Verleih GmbH"
+    ]
+  },
+  {
+    "id": 42461,
+    "title": "The Scarlet Letter",
+    "year": 1973,
+    "runtime": 90,
+    "genres": [
+      "History",
+      "Drama",
+      "TV Movie"
+    ],
+    "countries": [
+      "Germany",
+      "Spain"
+    ],
+    "studios": [
+      "Filmverlag der Autoren",
+      "WDR"
+    ]
+  },
+  {
+    "id": 42481,
+    "title": "The Goalie's Anxiety at the Penalty Kick",
+    "year": 1975,
+    "runtime": 101,
+    "genres": [
+      "Drama"
+    ],
+    "countries": [
+      "Austria",
+      "Germany"
+    ],
+    "studios": [
+      "ORF",
+      "Filmverlag der Autoren",
+      "Wim Wenders Stiftung",
+      "Telefilm Wien",
+      "WDR"
+    ]
+  },
+  {
+    "id": 46625,
+    "title": "The End of Violence",
+    "year": 1997,
+    "runtime": 121,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "countries": [
+      "Germany",
+      "United States of America",
+      "France"
+    ],
+    "studios": [
+      "Kintop Pictures",
+      "CiBy 2000",
+      "Road Movies",
+      "ARD Degeto"
+    ]
+  },
+  {
+    "id": 57276,
+    "title": "Pina",
+    "year": 2011,
+    "runtime": 106,
+    "genres": [
+      "Documentary"
+    ],
+    "countries": [
+      "Germany",
+      "France"
+    ],
+    "studios": [
+      "ZDF",
+      "Eurowide Film Production",
+      "ARTE",
+      "ZDFtheaterkanal",
+      "3sat",
+      "Neue Road Movies"
+    ]
+  },
+  {
+    "id": 76406,
+    "title": "Tokyo-Ga",
+    "year": 1985,
+    "runtime": 92,
+    "genres": [
+      "Documentary"
+    ],
+    "countries": [
+      "Germany",
+      "United States of America"
+    ],
+    "studios": [
+      "Chris Sievernich Filmproduktion",
+      "Grey City",
+      "WDR",
+      "Wim Wenders Productions",
+      "Wim Wenders Stiftung",
+      "Road Movies"
+    ]
+  },
+  {
+    "id": 103475,
+    "title": "The Soul of a Man",
+    "year": 2003,
+    "runtime": 103,
+    "genres": [
+      "Documentary",
+      "Music"
+    ],
+    "countries": [
+      "Germany",
+      "United States of America"
+    ],
+    "studios": [
+      "Jigsaw Productions"
+    ]
+  },
+  {
+    "id": 976893,
+    "title": "Perfect Days",
+    "year": 2023,
+    "runtime": 124,
+    "genres": [
+      "Drama"
+    ],
+    "countries": [
+      "Germany",
+      "Japan"
+    ],
+    "studios": [
+      "Master Mind",
+      "Wenders Images"
+    ]
+  },
+  {
+    "id": 246127,
+    "title": "Every Thing Will Be Fine",
+    "year": 2015,
+    "runtime": 118,
+    "genres": [
+      "Drama"
+    ],
+    "countries": [
+      "Canada",
+      "Germany",
+      "Norway",
+      "Sweden"
+    ],
+    "studios": [
+      "Montauk Productions",
+      "Film i Väst",
+      "GötaFilm",
+      "Mer Film",
+      "Road Movies"
+    ]
+  },
+  {
+    "id": 265297,
+    "title": "The Salt of the Earth",
+    "year": 2014,
+    "runtime": 110,
+    "genres": [
+      "Documentary"
+    ],
+    "countries": [
+      "Italy",
+      "France",
+      "Brazil"
+    ],
+    "studios": [
+      "Secretaria de Estado de Cultura do Espírito Santo",
+      "Decia Films",
+      "Amazonas Images",
+      "Solares Fondazione delle Arti",
+      "La Région Île-de-France",
+      "Maison Européenne de la Photographie",
+      "Serviçio Social do Comércio"
+    ]
+  },
+  {
+    "id": 351414,
+    "title": "The Beautiful Days of Aranjuez",
+    "year": 2016,
+    "runtime": 97,
+    "genres": [
+      "Drama"
+    ],
+    "countries": [
+      "France",
+      "Germany"
+    ],
+    "studios": [
+      "Alfama Films",
+      "Road Movies"
+    ]
+  },
+  {
+    "id": 375327,
+    "title": "Submergence",
+    "year": 2017,
+    "runtime": 112,
+    "genres": [
+      "Drama",
+      "Thriller",
+      "Romance"
+    ],
+    "countries": [
+      "United States of America",
+      "France",
+      "Germany",
+      "Spain"
+    ],
+    "studios": [
+      "Green Hummingbird Entertainment",
+      "Lila 9th Productions",
+      "Backup Media",
+      "Morena Films",
+      "uMedia",
+      "Road Movies"
+    ]
+  },
+  {
+    "id": 1112547,
+    "title": "Anselm",
+    "year": 2023,
+    "runtime": 93,
+    "genres": [
+      "Documentary"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "studios": [
+      "Road Movies"
+    ]
+  },
+  {
+    "id": 505205,
+    "title": "Pope Francis: A Man of His Word",
+    "year": 2018,
+    "runtime": 96,
+    "genres": [
+      "Documentary"
+    ],
+    "countries": [
+      "France",
+      "Germany",
+      "Italy",
+      "Switzerland",
+      "Holy See"
+    ],
+    "studios": [
+      "The Palindrome",
+      "Centro Televisivo Vaticano",
+      "Célestes Images",
+      "Solares Fondazione delle Arti",
+      "Decia Films",
+      "Fondazione Solares Suisse",
+      "Focus Features",
+      "Road Movies"
+    ]
+  },
+  {
+    "id": 64,
+    "title": "Talk to Her",
+    "year": 2002,
+    "runtime": 112,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "studios": [
+      "El Deseo",
+      "Atresmedia"
+    ]
+  },
+  {
+    "id": 99,
+    "title": "All About My Mother",
+    "year": 1999,
+    "runtime": 101,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "countries": [
+      "Spain",
+      "France"
+    ],
+    "studios": [
+      "El Deseo",
+      "Renn Productions",
+      "France 2 Cinéma"
+    ]
+  },
+  {
+    "id": 140,
+    "title": "Bad Education",
+    "year": 2004,
+    "runtime": 105,
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "studios": [
+      "El Deseo"
+    ]
+  },
+  {
+    "id": 219,
+    "title": "Volver",
+    "year": 2006,
+    "runtime": 121,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "studios": [
+      "El Deseo"
+    ]
+  },
+  {
+    "id": 267,
+    "title": "Live Flesh",
+    "year": 1997,
+    "runtime": 103,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Thriller"
+    ],
+    "countries": [
+      "Spain",
+      "France"
+    ],
+    "studios": [
+      "France 3 Cinéma",
+      "El Deseo",
+      "CiBy 2000"
+    ]
+  },
+  {
+    "id": 2469,
+    "title": "Tie Me Up! Tie Me Down!",
+    "year": 1990,
+    "runtime": 102,
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Drama"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "studios": [
+      "El Deseo"
+    ]
+  },
+  {
+    "id": 4043,
+    "title": "Law of Desire",
+    "year": 1987,
+    "runtime": 102,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Thriller",
+      "Comedy"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "studios": [
+      "Laurenfilm",
+      "El Deseo"
+    ]
+  },
+  {
+    "id": 4203,
+    "title": "Women on the Verge of a Nervous Breakdown",
+    "year": 1988,
+    "runtime": 88,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "studios": [
+      "El Deseo",
+      "Laurenfilm"
+    ]
+  },
+  {
+    "id": 4307,
+    "title": "The Flower of My Secret",
+    "year": 1995,
+    "runtime": 106,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "countries": [
+      "France",
+      "Spain"
+    ],
+    "studios": [
+      "El Deseo",
+      "CiBy 2000"
+    ]
+  },
+  {
+    "id": 4499,
+    "title": "Pepi, Luci, Bom",
+    "year": 1980,
+    "runtime": 82,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "studios": [
+      "Fígaro Films"
+    ]
+  },
+  {
+    "id": 8047,
+    "title": "Matador",
+    "year": 1986,
+    "runtime": 105,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "studios": [
+      "Compañía Iberoamericana de TV",
+      "TVE"
+    ]
+  },
+  {
+    "id": 8088,
+    "title": "Broken Embraces",
+    "year": 2009,
+    "runtime": 127,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Thriller"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "studios": [
+      "El Deseo"
+    ]
+  },
+  {
+    "id": 8219,
+    "title": "Labyrinth of Passion",
+    "year": 1982,
+    "runtime": 94,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "studios": [
+      "Alphaville S.A."
+    ]
+  },
+  {
+    "id": 8220,
+    "title": "Dark Habits",
+    "year": 1983,
+    "runtime": 100,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "studios": [
+      "Tesauro"
+    ]
+  },
+  {
+    "id": 8221,
+    "title": "What Have I Done to Deserve This?",
+    "year": 1984,
+    "runtime": 102,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "studios": [
+      "Kaktus Producciones Cinematográficas",
+      "Tesauro"
+    ]
+  },
+  {
+    "id": 8222,
+    "title": "High Heels",
+    "year": 1991,
+    "runtime": 114,
+    "genres": [
+      "Drama",
+      "Comedy",
+      "Crime"
+    ],
+    "countries": [
+      "Spain",
+      "France"
+    ],
+    "studios": [
+      "El Deseo",
+      "CiBy 2000",
+      "TF1 Films Production"
+    ]
+  },
+  {
+    "id": 8223,
+    "title": "Kika",
+    "year": 1993,
+    "runtime": 117,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "countries": [
+      "Spain",
+      "France"
+    ],
+    "studios": [
+      "El Deseo",
+      "CiBy 2000"
+    ]
+  },
+  {
+    "id": 63311,
+    "title": "The Skin I Live In",
+    "year": 2011,
+    "runtime": 120,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "studios": [
+      "El Deseo"
+    ]
+  },
+  {
+    "id": 144789,
+    "title": "I'm So Excited!",
+    "year": 2013,
+    "runtime": 90,
+    "genres": [
+      "Comedy"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "studios": [
+      "El Deseo"
+    ]
+  },
+  {
+    "id": 332872,
+    "title": "Julieta",
+    "year": 2016,
+    "runtime": 98,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "countries": [
+      "Spain",
+      "United States of America"
+    ],
+    "studios": [
+      "El Deseo",
+      "Echo Lake Entertainment",
+      "FilmNation Entertainment",
+      "Blue Lake Media Fund"
+    ]
+  },
+  {
+    "id": 1088514,
+    "title": "The Room Next Door",
+    "year": 2024,
+    "runtime": 106,
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "studios": [
+      "El Deseo"
+    ]
+  },
+  {
+    "id": 519010,
+    "title": "Pain and Glory",
+    "year": 2019,
+    "runtime": 114,
+    "genres": [
+      "Drama"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "studios": [
+      "El Deseo",
+      "TVE"
+    ]
+  },
+  {
+    "id": 766798,
+    "title": "Parallel Mothers",
+    "year": 2021,
+    "runtime": 123,
+    "genres": [
+      "Drama"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "studios": [
+      "El Deseo",
+      "TVE"
+    ]
+  },
+  {
+    "id": 843,
+    "title": "In the Mood for Love",
+    "year": 2000,
+    "runtime": 99,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "countries": [
+      "Hong Kong",
+      "France"
+    ],
+    "studios": [
+      "Block 2 Pictures",
+      "Paradis Films",
+      "Jet Tone Production"
+    ]
+  },
+  {
+    "id": 844,
+    "title": "2046",
+    "year": 2004,
+    "runtime": 128,
+    "genres": [
+      "Drama",
+      "Science Fiction",
+      "Romance"
+    ],
+    "countries": [
+      "Germany",
+      "Hong Kong",
+      "China",
+      "France",
+      "Italy"
+    ],
+    "studios": [
+      "Shanghai Film Group",
+      "Orly Films",
+      "Paradis Films",
+      "Classic Productions",
+      "Precious Yield",
+      "Jet Tone Production"
+    ]
+  },
+  {
+    "id": 1989,
+    "title": "My Blueberry Nights",
+    "year": 2007,
+    "runtime": 95,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "countries": [
+      "France",
+      "Hong Kong"
+    ],
+    "studios": [
+      "Block 2 Pictures",
+      "StudioCanal",
+      "Jet Tone Production"
+    ]
+  },
+  {
+    "id": 11220,
+    "title": "Fallen Angels",
+    "year": 1995,
+    "runtime": 98,
+    "genres": [
+      "Action",
+      "Romance",
+      "Crime"
+    ],
+    "countries": [
+      "Hong Kong"
+    ],
+    "studios": [
+      "Jet Tone Production"
+    ]
+  },
+  {
+    "id": 11104,
+    "title": "Chungking Express",
+    "year": 1994,
+    "runtime": 103,
+    "genres": [
+      "Drama",
+      "Comedy",
+      "Romance"
+    ],
+    "countries": [
+      "Hong Kong"
+    ],
+    "studios": [
+      "Jet Tone Production"
+    ]
+  },
+  {
+    "id": 24163,
+    "title": "As Tears Go By",
+    "year": 1988,
+    "runtime": 98,
+    "genres": [
+      "Drama",
+      "Crime",
+      "Romance"
+    ],
+    "countries": [
+      "Hong Kong"
+    ],
+    "studios": [
+      "In-Gear Film Production Co. Ltd."
+    ]
+  },
+  {
+    "id": 40751,
+    "title": "Ashes of Time",
+    "year": 1994,
+    "runtime": 100,
+    "genres": [
+      "Drama",
+      "Action"
+    ],
+    "countries": [
+      "Hong Kong",
+      "Taiwan",
+      "China"
+    ],
+    "studios": [
+      "Block 2 Pictures",
+      "Scholar Films Company",
+      "Beijing Film Studio",
+      "Jet Tone Production"
+    ]
+  },
+  {
+    "id": 44865,
+    "title": "The Grandmaster",
+    "year": 2013,
+    "runtime": 130,
+    "genres": [
+      "Action",
+      "Drama",
+      "History"
+    ],
+    "countries": [
+      "Hong Kong",
+      "United States of America"
+    ],
+    "studios": [
+      "Sil-Metropole Organisation",
+      "Annapurna Pictures",
+      "Block 2 Pictures",
+      "Jet Tone Production"
+    ]
+  },
+  {
+    "id": 18311,
+    "title": "Days of Being Wild",
+    "year": 1990,
+    "runtime": 94,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Romance"
+    ],
+    "countries": [
+      "Hong Kong"
+    ],
+    "studios": [
+      "In-Gear Film Production Co. Ltd."
+    ]
+  },
+  {
+    "id": 18329,
+    "title": "Happy Together",
+    "year": 1997,
+    "runtime": 96,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "countries": [
+      "Hong Kong",
+      "South Korea",
+      "Japan",
+      "Argentina"
+    ],
+    "studios": [
+      "Block 2 Pictures",
+      "Seowoo Film Company",
+      "Prénom H Co. Ltd.",
+      "Jet Tone Production"
+    ]
+  },
+  {
+    "id": 20530,
+    "title": "Late Spring",
+    "year": 1949,
+    "runtime": 108,
+    "genres": [
+      "Drama"
+    ],
+    "countries": [
+      "Japan"
+    ],
+    "studios": [
+      "Shochiku"
+    ]
+  },
+  {
+    "id": 20531,
+    "title": "Early Spring",
+    "year": 1956,
+    "runtime": 145,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "countries": [
+      "Japan"
+    ],
+    "studios": [
+      "Shochiku"
+    ]
+  },
+  {
+    "id": 21967,
+    "title": "Late Autumn",
+    "year": 1960,
+    "runtime": 128,
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "countries": [
+      "Japan"
+    ],
+    "studios": [
+      "Shochiku"
+    ]
+  },
+  {
+    "id": 27372,
+    "title": "There Was a Father",
+    "year": 1942,
+    "runtime": 93,
+    "genres": [
+      "Drama"
+    ],
+    "countries": [
+      "Japan"
+    ],
+    "studios": [
+      "Shochiku"
+    ]
+  },
+  {
+    "id": 28272,
+    "title": "Equinox Flower",
+    "year": 1958,
+    "runtime": 118,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "countries": [
+      "Japan"
+    ],
+    "studios": [
+      "Shochiku"
+    ]
+  },
+  {
+    "id": 28268,
+    "title": "I Was Born, But...",
+    "year": 1932,
+    "runtime": 91,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "countries": [
+      "Japan"
+    ],
+    "studios": [
+      "Shochiku"
+    ]
+  },
+  {
+    "id": 28276,
+    "title": "Good Morning",
+    "year": 1959,
+    "runtime": 94,
+    "genres": [
+      "Comedy",
+      "Family",
+      "Drama"
+    ],
+    "countries": [
+      "Japan"
+    ],
+    "studios": [
+      "Shochiku"
+    ]
+  },
+  {
+    "id": 28273,
+    "title": "The End of Summer",
+    "year": 1961,
+    "runtime": 103,
+    "genres": [
+      "Drama"
+    ],
+    "countries": [
+      "Japan"
+    ],
+    "studios": [
+      "Takarazuka Eiga Company Ltd."
+    ]
+  },
+  {
+    "id": 44163,
+    "title": "A Story of Floating Weeds",
+    "year": 1934,
+    "runtime": 86,
+    "genres": [
+      "Drama"
+    ],
+    "countries": [
+      "Japan"
+    ],
+    "studios": [
+      "Shochiku"
+    ]
+  },
+  {
+    "id": 46918,
+    "title": "Floating Weeds",
+    "year": 1959,
+    "runtime": 115,
+    "genres": [
+      "Drama"
+    ],
+    "countries": [
+      "Japan"
+    ],
+    "studios": [
+      "Daiei Film"
+    ]
+  },
+  {
+    "id": 18148,
+    "title": "Tokyo Story",
+    "year": 1953,
+    "runtime": 137,
+    "genres": [
+      "Drama"
+    ],
+    "countries": [
+      "Japan"
+    ],
+    "studios": [
+      "Shochiku"
+    ]
+  },
+  {
+    "id": 49317,
+    "title": "Days of Youth",
+    "year": 1929,
+    "runtime": 103,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "countries": [
+      "Japan"
+    ],
+    "studios": [
+      "Shochiku"
+    ]
+  },
+  {
+    "id": 49308,
+    "title": "That Night's Wife",
+    "year": 1930,
+    "runtime": 66,
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "countries": [
+      "Japan"
+    ],
+    "studios": [
+      "Shochiku"
+    ]
+  },
+  {
+    "id": 52047,
+    "title": "The Only Son",
+    "year": 1936,
+    "runtime": 87,
+    "genres": [
+      "Drama"
+    ],
+    "countries": [
+      "Japan"
+    ],
+    "studios": [
+      "Shochiku"
+    ]
+  },
+  {
+    "id": 50247,
+    "title": "Early Summer",
+    "year": 1951,
+    "runtime": 125,
+    "genres": [
+      "Drama"
+    ],
+    "countries": [
+      "Japan"
+    ],
+    "studios": [
+      "Shochiku",
+      "Shochiku Ofuna Film Studio"
+    ]
+  },
+  {
+    "id": 50759,
+    "title": "An Autumn Afternoon",
+    "year": 1962,
+    "runtime": 113,
+    "genres": [
+      "Drama"
+    ],
+    "countries": [
+      "Japan"
+    ],
+    "studios": [
+      "Shochiku",
+      "Shochiku Ofuna Film Studio"
+    ]
+  },
+  {
+    "id": 74126,
+    "title": "Record of a Tenement Gentleman",
+    "year": 1947,
+    "runtime": 72,
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "countries": [
+      "Japan"
+    ],
+    "studios": [
+      "Shochiku"
+    ]
+  },
+  {
+    "id": 55192,
+    "title": "Tokyo Twilight",
+    "year": 1957,
+    "runtime": 141,
+    "genres": [
+      "Drama"
+    ],
+    "countries": [
+      "Japan"
+    ],
+    "studios": [
+      "Shochiku"
+    ]
+  },
+  {
+    "id": 55197,
+    "title": "The Flavor of Green Tea Over Rice",
+    "year": 1952,
+    "runtime": 116,
+    "genres": [
+      "Drama"
+    ],
+    "countries": [
+      "Japan"
+    ],
+    "studios": [
+      "Shochiku"
+    ]
+  },
+  {
+    "id": 94659,
+    "title": "Brothers and Sisters of the Toda Family",
+    "year": 1941,
+    "runtime": 105,
+    "genres": [
+      "Drama"
+    ],
+    "countries": [
+      "Japan"
+    ],
+    "studios": [
+      "Shochiku"
+    ]
+  },
+  {
+    "id": 89462,
+    "title": "An Inn in Tokyo",
+    "year": 1935,
+    "runtime": 80,
+    "genres": [
+      "Drama"
+    ],
+    "countries": [
+      "Japan"
+    ],
+    "studios": [
+      "Shochiku"
+    ]
+  },
+  {
+    "id": 98635,
+    "title": "What Did the Lady Forget?",
+    "year": 1937,
+    "runtime": 71,
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "countries": [
+      "Japan"
+    ],
+    "studios": [
+      "Shochiku"
+    ]
+  },
+  {
+    "id": 88271,
+    "title": "Where Now Are the Dreams of Youth?",
+    "year": 1932,
+    "runtime": 86,
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "countries": [
+      "Japan"
+    ],
+    "studios": [
+      "Shochiku",
+      "Shochiku Kinema (Kamata)"
+    ]
+  },
+  {
+    "id": 126219,
+    "title": "A Hen in the Wind",
+    "year": 1948,
+    "runtime": 84,
+    "genres": [
+      "Drama"
+    ],
+    "countries": [
+      "Japan"
+    ],
+    "studios": [
+      "Shochiku"
+    ]
+  },
+  {
+    "id": 112882,
+    "title": "Tokyo Chorus",
+    "year": 1931,
+    "runtime": 91,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "countries": [
+      "Japan"
+    ],
+    "studios": [
+      "Shochiku"
+    ]
+  },
+  {
+    "id": 117412,
+    "title": "Passing Fancy",
+    "year": 1933,
+    "runtime": 101,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "countries": [
+      "Japan"
+    ],
+    "studios": [
+      "Shochiku"
+    ]
+  },
+  {
+    "id": 117472,
+    "title": "Dragnet Girl",
+    "year": 1933,
+    "runtime": 100,
+    "genres": [
+      "Romance",
+      "Drama",
+      "Crime"
+    ],
+    "countries": [
+      "Japan"
+    ],
+    "studios": [
+      "Shochiku",
+      "Shochiku Kinema (Kamata)"
+    ]
+  },
+  {
+    "id": 162954,
+    "title": "Walk Cheerfully",
+    "year": 1930,
+    "runtime": 95,
+    "genres": [
+      "Romance",
+      "Crime",
+      "Drama"
+    ],
+    "countries": [
+      "Japan"
+    ],
+    "studios": [
+      "Shochiku"
+    ]
+  },
+  {
+    "id": 55198,
+    "title": "The Munekata Sisters",
+    "year": 1950,
+    "runtime": 112,
+    "genres": [
+      "Drama"
+    ],
+    "countries": [
+      "Japan"
+    ],
+    "studios": [
+      "Shintoho Company"
+    ]
+  },
+  {
+    "id": 30017,
+    "title": "Close-Up",
+    "year": 1990,
+    "runtime": 98,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "countries": [
+      "Iran"
+    ],
+    "studios": [
+      "Kanoon"
+    ]
+  },
+  {
+    "id": 30020,
+    "title": "Taste of Cherry",
+    "year": 1997,
+    "runtime": 99,
+    "genres": [
+      "Drama"
+    ],
+    "countries": [
+      "Iran",
+      "France"
+    ],
+    "studios": [
+      "Kanoon",
+      "Kiarostami Foundation",
+      "CiBy 2000"
+    ]
+  },
+  {
+    "id": 43423,
+    "title": "The Wind Will Carry Us",
+    "year": 1999,
+    "runtime": 118,
+    "genres": [
+      "Drama"
+    ],
+    "countries": [
+      "Iran",
+      "France"
+    ],
+    "studios": [
+      "MK2 Films",
+      "Kiarostami Foundation"
+    ]
+  },
+  {
+    "id": 47104,
+    "title": "Through the Olive Trees",
+    "year": 1994,
+    "runtime": 104,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "countries": [
+      "Iran",
+      "France"
+    ],
+    "studios": [
+      "CiBy 2000",
+      "Kiarostami Foundation",
+      "Farabi Cinema"
+    ]
+  },
+  {
+    "id": 48303,
+    "title": "Certified Copy",
+    "year": 2010,
+    "runtime": 106,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "countries": [
+      "France",
+      "Italy",
+      "Belgium"
+    ],
+    "studios": [
+      "MK2 Films",
+      "BiBi Film",
+      "Artémis Productions",
+      "France 3 Cinéma"
+    ]
+  },
+  {
+    "id": 49964,
+    "title": "Where Is The Friend's House?",
+    "year": 1987,
+    "runtime": 83,
+    "genres": [
+      "Drama",
+      "Adventure"
+    ],
+    "countries": [
+      "Iran"
+    ],
+    "studios": [
+      "Kanoon",
+      "Farabi Cinema"
+    ]
+  },
+  {
+    "id": 83761,
+    "title": "Life, and Nothing More…",
+    "year": 1992,
+    "runtime": 95,
+    "genres": [
+      "Drama",
+      "Adventure"
+    ],
+    "countries": [
+      "Iran"
+    ],
+    "studios": [
+      "Kanoon"
+    ]
+  },
+  {
+    "id": 54001,
+    "title": "The Traveler",
+    "year": 1974,
+    "runtime": 73,
+    "genres": [
+      "Drama"
+    ],
+    "countries": [
+      "Iran"
+    ],
+    "studios": [
+      "Kanoon"
+    ]
+  },
+  {
+    "id": 57251,
+    "title": "Tickets",
+    "year": 2005,
+    "runtime": 109,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "countries": [
+      "Italy",
+      "United Kingdom"
+    ],
+    "studios": [
+      "Fandango",
+      "Medusa Film",
+      "Sixteen Films",
+      "UK Film Council",
+      "Invicta Capital",
+      "Sky"
+    ]
+  },
+  {
+    "id": 87308,
+    "title": "Shirin",
+    "year": 2009,
+    "runtime": 92,
+    "genres": [
+      "Drama"
+    ],
+    "countries": [
+      "Iran"
+    ],
+    "studios": [
+      "Kiarostami Foundation"
+    ]
+  },
+  {
+    "id": 102001,
+    "title": "Like Someone in Love",
+    "year": 2012,
+    "runtime": 109,
+    "genres": [
+      "Drama"
+    ],
+    "countries": [
+      "France",
+      "Japan"
+    ],
+    "studios": [
+      "MK2 Films",
+      "Eurospace"
+    ]
+  },
+  {
+    "id": 117404,
+    "title": "ABC Africa",
+    "year": 2001,
+    "runtime": 87,
+    "genres": [
+      "Documentary"
+    ],
+    "countries": [
+      "Iran",
+      "France"
+    ],
+    "studios": [
+      "MK2 Films",
+      "Kiarostami Foundation"
+    ]
+  },
+  {
+    "id": 145075,
+    "title": "Homework",
+    "year": 1989,
+    "runtime": 78,
+    "genres": [
+      "Documentary"
+    ],
+    "countries": [
+      "Iran"
+    ],
+    "studios": [
+      "Kanoon"
+    ]
+  },
+  {
+    "id": 14633,
+    "title": "Ten",
+    "year": 2002,
+    "runtime": 94,
+    "genres": [
+      "Drama"
+    ],
+    "countries": [
+      "Iran",
+      "France"
+    ],
+    "studios": [
+      "MK2 Films",
+      "Kiarostami Foundation"
+    ]
+  },
+  {
+    "id": 377269,
+    "title": "24 Frames",
+    "year": 2018,
+    "runtime": 114,
+    "genres": [
+      "Drama"
+    ],
+    "countries": [
+      "Iran",
+      "France"
+    ],
+    "studios": [
+      "CG Cinéma",
+      "Kiarostami Foundation"
+    ]
+  },
+  {
+    "id": 2440,
+    "title": "Joint Security Area",
+    "year": 2000,
+    "runtime": 108,
+    "genres": [
+      "Drama",
+      "Thriller",
+      "Action"
+    ],
+    "countries": [
+      "South Korea"
+    ],
+    "studios": [
+      "CJ Entertainment",
+      "Intz.com",
+      "KTB Network",
+      "Myung Films"
+    ]
+  },
+  {
+    "id": 4550,
+    "title": "Lady Vengeance",
+    "year": 2005,
+    "runtime": 115,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "countries": [
+      "South Korea"
+    ],
+    "studios": [
+      "TSJ Entertainment",
+      "Ilshin Capital Investments",
+      "Centurion Investment",
+      "Moho Film",
+      "CJ Entertainment",
+      "CJ Investment"
+    ]
+  },
+  {
+    "id": 5488,
+    "title": "I'm a Cyborg, But That's OK",
+    "year": 2006,
+    "runtime": 105,
+    "genres": [
+      "Drama",
+      "Comedy",
+      "Romance"
+    ],
+    "countries": [
+      "South Korea"
+    ],
+    "studios": [
+      "Moho Film",
+      "CJ Entertainment"
+    ]
+  },
+  {
+    "id": 4689,
+    "title": "Sympathy for Mr. Vengeance",
+    "year": 2002,
+    "runtime": 129,
+    "genres": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "countries": [
+      "South Korea"
+    ],
+    "studios": [
+      "CJ Entertainment",
+      "Studio Box"
+    ]
+  },
+  {
+    "id": 22536,
+    "title": "Thirst",
+    "year": 2009,
+    "runtime": 134,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Thriller"
+    ],
+    "countries": [
+      "South Korea"
+    ],
+    "studios": [
+      "Moho Film"
+    ]
+  },
+  {
+    "id": 33908,
+    "title": "Three... Extremes",
+    "year": 2004,
+    "runtime": 125,
+    "genres": [
+      "Horror"
+    ],
+    "countries": [
+      "Hong Kong",
+      "Japan",
+      "Netherlands",
+      "South Korea"
+    ],
+    "studios": [
+      "Applause Pictures",
+      "Bom Film Productions",
+      "CJ Entertainment",
+      "Fortissimo Films",
+      "KADOKAWA"
+    ]
+  },
+  {
+    "id": 86825,
+    "title": "Stoker",
+    "year": 2013,
+    "runtime": 99,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Thriller"
+    ],
+    "countries": [
+      "United States of America"
+    ],
+    "studios": [
+      "Fox Searchlight Pictures",
+      "Indian Paintbrush",
+      "Dune Entertainment",
+      "Scott Free Productions"
+    ]
+  },
+  {
+    "id": 290098,
+    "title": "The Handmaiden",
+    "year": 2016,
+    "runtime": 145,
+    "genres": [
+      "Thriller",
+      "Drama",
+      "Romance"
+    ],
+    "countries": [
+      "South Korea"
+    ],
+    "studios": [
+      "Moho Film",
+      "Yong Film",
+      "CJ Entertainment"
+    ]
+  },
+  {
+    "id": 639988,
+    "title": "No Other Choice",
+    "year": 2025,
+    "runtime": 139,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Thriller"
+    ],
+    "countries": [
+      "South Korea",
+      "France"
+    ],
+    "studios": [
+      "CJ ENM Studios",
+      "Moho Film",
+      "KG Productions"
+    ]
+  },
+  {
+    "id": 670,
+    "title": "Oldboy",
+    "year": 2003,
+    "runtime": 120,
+    "genres": [
+      "Drama",
+      "Thriller",
+      "Mystery",
+      "Action"
+    ],
+    "countries": [
+      "South Korea"
+    ],
+    "studios": [
+      "Show East",
+      "Egg Film",
+      "Cineclick Asia"
+    ]
+  },
+  {
+    "id": 705996,
+    "title": "Decision to Leave",
+    "year": 2022,
+    "runtime": 139,
+    "genres": [
+      "Thriller",
+      "Mystery",
+      "Romance"
+    ],
+    "countries": [
+      "South Korea"
+    ],
+    "studios": [
+      "Moho Film",
+      "CJ ENM",
+      "CJ Entertainment"
+    ]
+  },
+  {
+    "id": 1255,
+    "title": "The Host",
+    "year": 2006,
+    "runtime": 120,
+    "genres": [
+      "Horror",
+      "Drama",
+      "Science Fiction"
+    ],
+    "countries": [
+      "South Korea"
+    ],
+    "studios": [
+      "Chungeorahm Film",
+      "Showbox"
+    ]
+  },
+  {
+    "id": 21531,
+    "title": "Barking Dogs Never Bite",
+    "year": 2000,
+    "runtime": 110,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "countries": [
+      "South Korea"
+    ],
+    "studios": [
+      "CJ Entertainment",
+      "Cinema Service",
+      "Sidus"
+    ]
+  },
+  {
+    "id": 30018,
+    "title": "Mother",
+    "year": 2009,
+    "runtime": 129,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "countries": [
+      "South Korea"
+    ],
+    "studios": [
+      "Barunson E&A",
+      "CJ Entertainment"
+    ]
+  },
+  {
+    "id": 11423,
+    "title": "Memories of Murder",
+    "year": 2003,
+    "runtime": 131,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "countries": [
+      "South Korea"
+    ],
+    "studios": [
+      "CJ Entertainment",
+      "Muhan Investment",
+      "Sidus"
+    ]
+  },
+  {
+    "id": 8938,
+    "title": "Tokyo!",
+    "year": 2008,
+    "runtime": 112,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "countries": [
+      "South Korea",
+      "Germany",
+      "Japan",
+      "France"
+    ],
+    "studios": [
+      "ARTE France Cinéma",
+      "Wild Bunch",
+      "Bitters End",
+      "Backup Media",
+      "Comme des Cinémas",
+      "WDR/Arte",
+      "Hakuhodo DY Media Partners",
+      "Coin Film",
+      "Kansai Television",
+      "Sponge",
+      "VAP",
+      "Champion Top Investment",
+      "Picnic",
+      "WOWOW",
+      "Asahi Broadcasting Corporation"
+    ]
+  },
+  {
+    "id": 110415,
+    "title": "Snowpiercer",
+    "year": 2013,
+    "runtime": 127,
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Drama"
+    ],
+    "countries": [
+      "South Korea"
+    ],
+    "studios": [
+      "Opus Pictures",
+      "Moho Film",
+      "CJ Entertainment",
+      "Union Investment Partners"
+    ]
+  },
+  {
+    "id": 696506,
+    "title": "Mickey 17",
+    "year": 2025,
+    "runtime": 137,
+    "genres": [
+      "Science Fiction",
+      "Comedy",
+      "Adventure"
+    ],
+    "countries": [
+      "United States of America",
+      "United Kingdom"
+    ],
+    "studios": [
+      "Warner Bros. Pictures",
+      "Plan B Entertainment",
+      "Offscreen",
+      "Kate Street Picture Company",
+      "Domain Entertainment"
+    ]
+  },
+  {
+    "id": 387426,
+    "title": "Okja",
+    "year": 2017,
+    "runtime": 120,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Science Fiction"
+    ],
+    "countries": [
+      "South Korea",
+      "United States of America"
+    ],
+    "studios": [
+      "Kate Street Picture Company",
+      "Plan B Entertainment",
+      "Lewis Pictures"
+    ]
+  },
+  {
+    "id": 496243,
+    "title": "Parasite",
+    "year": 2019,
+    "runtime": 133,
+    "genres": [
+      "Comedy",
+      "Thriller",
+      "Drama"
+    ],
+    "countries": [
+      "South Korea"
+    ],
+    "studios": [
+      "Barunson E&A"
+    ]
+  },
+  {
+    "id": 2517,
+    "title": "Nobody Knows",
+    "year": 2004,
+    "runtime": 141,
+    "genres": [
+      "Drama"
+    ],
+    "countries": [
+      "Japan"
+    ],
+    "studios": [
+      "Engine Film",
+      "c-style",
+      "Bandai Visual",
+      "TV Man Union",
+      "Cinequanon"
+    ]
+  },
+  {
+    "id": 20525,
+    "title": "Hana",
+    "year": 2006,
+    "runtime": 127,
+    "genres": [
+      "Action",
+      "Drama",
+      "History",
+      "Comedy"
+    ],
+    "countries": [
+      "Japan"
+    ],
+    "studios": [
+      "Shochiku",
+      "Tokyo FM",
+      "Bandai Visual",
+      "TV Man Union",
+      "Shochiku Studio"
+    ]
+  },
+  {
+    "id": 25050,
+    "title": "Still Walking",
+    "year": 2008,
+    "runtime": 114,
+    "genres": [
+      "Drama",
+      "Family"
+    ],
+    "countries": [
+      "Japan"
+    ],
+    "studios": [
+      "Eisei Gekijo",
+      "TV Man Union",
+      "Bandai Visual",
+      "Cinequanon",
+      "Engine Film Group"
+    ]
+  },
+  {
+    "id": 25051,
+    "title": "Distance",
+    "year": 2001,
+    "runtime": 132,
+    "genres": [
+      "Drama"
+    ],
+    "countries": [
+      "Japan"
+    ],
+    "studios": [
+      "CineRocket",
+      "IMAGICA",
+      "TV Man Union",
+      "Engine Film"
+    ]
+  },
+  {
+    "id": 25053,
+    "title": "Air Doll",
+    "year": 2009,
+    "runtime": 112,
+    "genres": [
+      "Drama",
+      "Fantasy"
+    ],
+    "countries": [
+      "Japan"
+    ],
+    "studios": [
+      "Eisei Gekijo",
+      "Engine Film",
+      "TV Man Union",
+      "Bandai Visual",
+      "Asmik Ace Entertainment"
+    ]
+  },
+  {
+    "id": 17962,
+    "title": "After Life",
+    "year": 1999,
+    "runtime": 118,
+    "genres": [
+      "Fantasy",
+      "Drama"
+    ],
+    "countries": [
+      "Japan"
+    ],
+    "studios": [
+      "Engine Film",
+      "Sputnik Productions",
+      "TV Man Union"
+    ]
+  },
+  {
+    "id": 18872,
+    "title": "Maborosi",
+    "year": 1995,
+    "runtime": 110,
+    "genres": [
+      "Drama"
+    ],
+    "countries": [
+      "Japan"
+    ],
+    "studios": [
+      "TV Man Union"
+    ]
+  },
+  {
+    "id": 79382,
+    "title": "I Wish",
+    "year": 2011,
+    "runtime": 127,
+    "genres": [
+      "Drama"
+    ],
+    "countries": [
+      "Japan"
+    ],
+    "studios": [
+      "Chugoku Broadcasting",
+      "jeki",
+      "Shirogumi",
+      "Bandai Visual",
+      "GAGA Corporation",
+      "Eisei Gekijo",
+      "MBS",
+      "RKB Mainichi Broadcasting Corporation",
+      "West Japan Marketing Communications",
+      "d-rights",
+      "THE NISHINIPPON SHIMBUN",
+      "FM Fukuoka",
+      "J-WAVE",
+      "RKK Kumamoto Broadcasting",
+      "JR Kyushu Agency",
+      "Minaminihon Broadcasting Co."
+    ]
+  },
+  {
+    "id": 177945,
+    "title": "Like Father, Like Son",
+    "year": 2013,
+    "runtime": 120,
+    "genres": [
+      "Drama"
+    ],
+    "countries": [
+      "Japan"
+    ],
+    "studios": [
+      "Fuji Television Network",
+      "BUN-BUKU",
+      "AMUSE",
+      "GAGA Corporation"
+    ]
+  },
+  {
+    "id": 315846,
+    "title": "Our Little Sister",
+    "year": 2015,
+    "runtime": 127,
+    "genres": [
+      "Drama"
+    ],
+    "countries": [
+      "Japan"
+    ],
+    "studios": [
+      "Shogakukan",
+      "TOHO",
+      "Fuji Television Network",
+      "BUN-BUKU",
+      "GAGA Corporation"
+    ]
+  },
+  {
+    "id": 374671,
+    "title": "After the Storm",
+    "year": 2016,
+    "runtime": 117,
+    "genres": [
+      "Drama"
+    ],
+    "countries": [
+      "Japan"
+    ],
+    "studios": [
+      "Fuji Television Network",
+      "Bandai Visual",
+      "BUN-BUKU",
+      "AOI Pro.",
+      "GAGA Corporation"
+    ]
+  },
+  {
+    "id": 1050035,
+    "title": "Monster",
+    "year": 2023,
+    "runtime": 125,
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Drama"
+    ],
+    "countries": [
+      "Japan"
+    ],
+    "studios": [
+      "TOHO",
+      "Fuji Television Network",
+      "AOI Pro.",
+      "BUN-BUKU",
+      "GAGA Corporation"
+    ]
+  },
+  {
+    "id": 434775,
+    "title": "The Third Murder",
+    "year": 2017,
+    "runtime": 125,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Crime"
+    ],
+    "countries": [
+      "Japan"
+    ],
+    "studios": [
+      "Fuji Television Network",
+      "AMUSE",
+      "Fuji IG Laboratory for Movies (FILM)",
+      "BUN-BUKU",
+      "GAGA Corporation"
+    ]
+  },
+  {
+    "id": 505192,
+    "title": "Shoplifters",
+    "year": 2018,
+    "runtime": 120,
+    "genres": [
+      "Drama",
+      "Crime",
+      "Thriller"
+    ],
+    "countries": [
+      "Japan"
+    ],
+    "studios": [
+      "Fuji Television Network",
+      "AOI Pro.",
+      "BUN-BUKU",
+      "GAGA Corporation"
+    ]
+  },
+  {
+    "id": 517468,
+    "title": "The Truth",
+    "year": 2019,
+    "runtime": 106,
+    "genres": [
+      "Drama"
+    ],
+    "countries": [
+      "France",
+      "Japan"
+    ],
+    "studios": [
+      "MI Movies",
+      "BUN-BUKU",
+      "France 3 Cinéma",
+      "3B Productions"
+    ]
+  },
+  {
+    "id": 736732,
+    "title": "Broker",
+    "year": 2022,
+    "runtime": 129,
+    "genres": [
+      "Drama",
+      "Comedy",
+      "Crime"
+    ],
+    "countries": [
+      "South Korea"
+    ],
+    "studios": [
+      "CJ ENM",
+      "Zip Cinema"
+    ]
+  },
+  {
+    "id": 203,
+    "title": "Mean Streets",
+    "year": 1973,
+    "runtime": 111,
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "countries": [
+      "United States of America"
+    ],
+    "studios": [
+      "Taplin-Perry-Scorsese Productions"
+    ]
+  },
+  {
+    "id": 524,
+    "title": "Casino",
+    "year": 1995,
+    "runtime": 179,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "countries": [
+      "France",
+      "United States of America"
+    ],
+    "studios": [
+      "Universal Pictures",
+      "Syalis DA",
+      "Légende Films",
+      "Cappa/De Fina Productions"
+    ]
+  },
+  {
+    "id": 1422,
+    "title": "The Departed",
+    "year": 2006,
+    "runtime": 151,
+    "genres": [
+      "Drama",
+      "Thriller",
+      "Crime"
+    ],
+    "countries": [
+      "Hong Kong",
+      "United States of America"
+    ],
+    "studios": [
+      "Warner Bros. Pictures",
+      "Plan B Entertainment",
+      "Initial Entertainment Group",
+      "Vertigo Entertainment",
+      "Media Asia Films"
+    ]
+  },
+  {
+    "id": 1578,
+    "title": "Raging Bull",
+    "year": 1980,
+    "runtime": 129,
+    "genres": [
+      "Drama"
+    ],
+    "countries": [
+      "United States of America"
+    ],
+    "studios": [
+      "United Artists",
+      "Chartoff-Winkler Productions"
+    ]
+  },
+  {
+    "id": 1598,
+    "title": "Cape Fear",
+    "year": 1991,
+    "runtime": 128,
+    "genres": [
+      "Drama",
+      "Crime",
+      "Thriller"
+    ],
+    "countries": [
+      "United States of America"
+    ],
+    "studios": [
+      "Amblin Entertainment",
+      "Cappa Productions",
+      "Tribeca Productions",
+      "Universal Pictures"
+    ]
+  },
+  {
+    "id": 769,
+    "title": "GoodFellas",
+    "year": 1990,
+    "runtime": 145,
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "countries": [
+      "United States of America"
+    ],
+    "studios": [
+      "Winkler Films",
+      "Warner Bros. Pictures"
+    ]
+  },
+  {
+    "id": 2567,
+    "title": "The Aviator",
+    "year": 2004,
+    "runtime": 170,
+    "genres": [
+      "Drama"
+    ],
+    "countries": [
+      "Germany",
+      "United States of America"
+    ],
+    "studios": [
+      "Warner Bros. Pictures",
+      "Miramax",
+      "Initial Entertainment Group",
+      "Forward Pass",
+      "Appian Way",
+      "IMF"
+    ]
+  },
+  {
+    "id": 10436,
+    "title": "The Age of Innocence",
+    "year": 1993,
+    "runtime": 138,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "countries": [
+      "United States of America"
+    ],
+    "studios": [
+      "Columbia Pictures",
+      "Cappa/De Fina Productions"
+    ]
+  },
+  {
+    "id": 10843,
+    "title": "After Hours",
+    "year": 1985,
+    "runtime": 97,
+    "genres": [
+      "Comedy",
+      "Thriller",
+      "Drama"
+    ],
+    "countries": [
+      "United States of America"
+    ],
+    "studios": [
+      "Double Play",
+      "Geffen Pictures"
+    ]
+  },
+  {
+    "id": 3131,
+    "title": "Gangs of New York",
+    "year": 2002,
+    "runtime": 168,
+    "genres": [
+      "Drama",
+      "History",
+      "Crime"
+    ],
+    "countries": [
+      "United States of America",
+      "Italy"
+    ],
+    "studios": [
+      "Miramax",
+      "Touchstone Pictures",
+      "Initial Entertainment Group",
+      "Alberto Grimaldi Productions"
+    ]
+  },
+  {
+    "id": 11051,
+    "title": "The Last Temptation of Christ",
+    "year": 1988,
+    "runtime": 164,
+    "genres": [
+      "Drama"
+    ],
+    "countries": [
+      "United States of America",
+      "Canada"
+    ],
+    "studios": [
+      "Universal Pictures",
+      "Cineplex-Odeon Films"
+    ]
+  },
+  {
+    "id": 11324,
+    "title": "Shutter Island",
+    "year": 2010,
+    "runtime": 138,
+    "genres": [
+      "Drama",
+      "Thriller",
+      "Mystery"
+    ],
+    "countries": [
+      "United States of America"
+    ],
+    "studios": [
+      "Paramount Pictures",
+      "Phoenix Pictures",
+      "Sikelia Productions",
+      "Appian Way"
+    ]
+  },
+  {
+    "id": 22784,
+    "title": "Boxcar Bertha",
+    "year": 1972,
+    "runtime": 88,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "countries": [
+      "United States of America"
+    ],
+    "studios": [
+      "American International Pictures"
+    ]
+  },
+  {
+    "id": 11873,
+    "title": "The Color of Money",
+    "year": 1986,
+    "runtime": 119,
+    "genres": [
+      "Drama"
+    ],
+    "countries": [
+      "United States of America"
+    ],
+    "studios": [
+      "Touchstone Pictures",
+      "Silver Screen Partners II"
+    ]
+  },
+  {
+    "id": 8649,
+    "title": "Bringing Out the Dead",
+    "year": 1999,
+    "runtime": 121,
+    "genres": [
+      "Drama"
+    ],
+    "countries": [
+      "United States of America"
+    ],
+    "studios": [
+      "Scott Rudin Productions",
+      "Touchstone Pictures",
+      "Paramount Pictures",
+      "Cappa/De Fina Productions"
+    ]
+  },
+  {
+    "id": 7944,
+    "title": "Shine a Light",
+    "year": 2008,
+    "runtime": 122,
+    "genres": [
+      "Documentary",
+      "Music"
+    ],
+    "countries": [
+      "Canada",
+      "United States of America"
+    ],
+    "studios": [
+      "Shangri-La Entertainment",
+      "Concert Productions International",
+      "Paramount Vantage"
+    ]
+  },
+  {
+    "id": 9746,
+    "title": "Kundun",
+    "year": 1997,
+    "runtime": 134,
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "countries": [
+      "United States of America"
+    ],
+    "studios": [
+      "Touchstone Pictures",
+      "Cappa/De Fina Productions"
+    ]
+  },
+  {
+    "id": 12637,
+    "title": "New York, New York",
+    "year": 1977,
+    "runtime": 163,
+    "genres": [
+      "Romance",
+      "Drama",
+      "Music"
+    ],
+    "countries": [
+      "United States of America"
+    ],
+    "studios": [
+      "United Artists",
+      "Chartoff-Winkler Productions"
+    ]
+  },
+  {
+    "id": 13963,
+    "title": "The Last Waltz",
+    "year": 1978,
+    "runtime": 117,
+    "genres": [
+      "Documentary",
+      "Music"
+    ],
+    "countries": [
+      "United States of America"
+    ],
+    "studios": [
+      "FM Productions",
+      "Last Waltz Inc.",
+      "United Artists"
+    ]
+  },
+  {
+    "id": 44826,
+    "title": "Hugo",
+    "year": 2011,
+    "runtime": 126,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Family"
+    ],
+    "countries": [
+      "United Kingdom",
+      "United States of America"
+    ],
+    "studios": [
+      "GK Films",
+      "Infinitum Nihil"
+    ]
+  },
+  {
+    "id": 16153,
+    "title": "Alice Doesn't Live Here Anymore",
+    "year": 1974,
+    "runtime": 112,
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
+    "countries": [
+      "United States of America"
+    ],
+    "studios": [
+      "Warner Bros. Pictures"
+    ]
+  },
+  {
+    "id": 65673,
+    "title": "A Letter to Elia",
+    "year": 2010,
+    "runtime": 60,
+    "genres": [
+      "Documentary"
+    ],
+    "countries": [
+      "United States of America"
+    ],
+    "studios": []
+  },
+  {
+    "id": 19082,
+    "title": "No Direction Home: Bob Dylan",
+    "year": 2005,
+    "runtime": 208,
+    "genres": [
+      "Documentary",
+      "Music"
+    ],
+    "countries": [
+      "Japan",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "studios": [
+      "Grey Water Park Productions",
+      "Spitfire Pictures",
+      "Thirteen",
+      "The WNET Group",
+      "PBS",
+      "BBC",
+      "NHK",
+      "Vulcan Productions",
+      "ANENA"
+    ]
+  },
+  {
+    "id": 53198,
+    "title": "My Voyage to Italy",
+    "year": 1999,
+    "runtime": 246,
+    "genres": [
+      "Documentary"
+    ],
+    "countries": [
+      "United States of America",
+      "Italy"
+    ],
+    "studios": [
+      "MediaTrade",
+      "Cappa Productions"
+    ]
+  },
+  {
+    "id": 54793,
+    "title": "Public Speaking",
+    "year": 2011,
+    "runtime": 82,
+    "genres": [
+      "Documentary"
+    ],
+    "countries": [
+      "United States of America"
+    ],
+    "studios": [
+      "American Express",
+      "Consolidated Documentaries",
+      "Sikelia Productions",
+      "Café Lebowitz"
+    ]
+  },
+  {
+    "id": 106646,
+    "title": "The Wolf of Wall Street",
+    "year": 2013,
+    "runtime": 180,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Comedy"
+    ],
+    "countries": [
+      "United States of America"
+    ],
+    "studios": [
+      "Red Granite Pictures",
+      "Appian Way",
+      "Sikelia Productions",
+      "EMJAG Productions"
+    ]
+  },
+  {
+    "id": 398978,
+    "title": "The Irishman",
+    "year": 2019,
+    "runtime": 209,
+    "genres": [
+      "Crime",
+      "Drama",
+      "History"
+    ],
+    "countries": [
+      "United States of America"
+    ],
+    "studios": [
+      "Tribeca Productions",
+      "Sikelia Productions",
+      "Winkler Films"
+    ]
+  },
+  {
+    "id": 42694,
+    "title": "Who's That Knocking at My Door",
+    "year": 1968,
+    "runtime": 90,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "countries": [
+      "United States of America"
+    ],
+    "studios": [
+      "Trimod Films"
+    ]
+  },
+  {
+    "id": 68730,
+    "title": "Silence",
+    "year": 2016,
+    "runtime": 161,
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "countries": [
+      "Mexico",
+      "Taiwan",
+      "United States of America"
+    ],
+    "studios": [
+      "Waypoint Entertainment",
+      "Cappa Defina Productions",
+      "CatchPlay",
+      "Fábrica de Cine",
+      "SharpSword Films",
+      "Sikelia Productions",
+      "EFO Films"
+    ]
+  },
+  {
+    "id": 466420,
+    "title": "Killers of the Flower Moon",
+    "year": 2023,
+    "runtime": 206,
+    "genres": [
+      "Crime",
+      "History",
+      "Drama"
+    ],
+    "countries": [
+      "United States of America"
+    ],
+    "studios": [
+      "Apple Studios",
+      "Imperative Entertainment",
+      "Sikelia Productions",
+      "Appian Way"
+    ]
+  },
+  {
+    "id": 45865,
+    "title": "Michael Jackson Video Greatest Hits: HIStory",
+    "year": 1995,
+    "runtime": 90,
+    "genres": [
+      "Music"
+    ],
+    "countries": [
+      "United States of America"
+    ],
+    "studios": []
+  },
+  {
+    "id": 574638,
+    "title": "Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese",
+    "year": 2019,
+    "runtime": 142,
+    "genres": [
+      "Documentary",
+      "Music"
+    ],
+    "countries": [
+      "United States of America"
+    ],
+    "studios": [
+      "Grey Water Park Productions",
+      "Sikelia Productions"
+    ]
+  },
+  {
+    "id": 262,
+    "title": "The King of Comedy",
+    "year": 1982,
+    "runtime": 109,
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "countries": [
+      "United States of America"
+    ],
+    "studios": [
+      "Embassy International Pictures"
+    ]
+  },
+  {
+    "id": 103,
+    "title": "Taxi Driver",
+    "year": 1976,
+    "runtime": 114,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "countries": [
+      "United States of America"
+    ],
+    "studios": [
+      "Italo/Judeo Productions",
+      "Bill/Phillips",
+      "Columbia Pictures"
+    ]
+  },
+  {
+    "id": 115,
+    "title": "The Big Lebowski",
+    "year": 1998,
+    "runtime": 117,
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "countries": [
+      "United Kingdom",
+      "United States of America"
+    ],
+    "studios": [
+      "PolyGram Filmed Entertainment",
+      "Working Title Films"
+    ]
+  },
+  {
+    "id": 134,
+    "title": "O Brother, Where Art Thou?",
+    "year": 2000,
+    "runtime": 107,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Crime"
+    ],
+    "countries": [
+      "France",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "studios": [
+      "Touchstone Pictures",
+      "Universal Pictures",
+      "StudioCanal",
+      "Working Title Films",
+      "Mike Zoss Productions"
+    ]
+  },
+  {
+    "id": 275,
+    "title": "Fargo",
+    "year": 1996,
+    "runtime": 98,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "countries": [
+      "United Kingdom",
+      "United States of America"
+    ],
+    "studios": [
+      "PolyGram Filmed Entertainment",
+      "Working Title Films"
+    ]
+  },
+  {
+    "id": 290,
+    "title": "Barton Fink",
+    "year": 1991,
+    "runtime": 117,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Thriller"
+    ],
+    "countries": [
+      "United Kingdom",
+      "United States of America"
+    ],
+    "studios": [
+      "Working Title Films",
+      "Circle Films"
+    ]
+  },
+  {
+    "id": 379,
+    "title": "Miller's Crossing",
+    "year": 1990,
+    "runtime": 115,
+    "genres": [
+      "Drama",
+      "Thriller",
+      "Crime"
+    ],
+    "countries": [
+      "United States of America"
+    ],
+    "studios": [
+      "Circle Films"
+    ]
+  },
+  {
+    "id": 378,
+    "title": "Raising Arizona",
+    "year": 1987,
+    "runtime": 94,
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "countries": [
+      "United States of America"
+    ],
+    "studios": [
+      "Circle Films"
+    ]
+  },
+  {
+    "id": 10778,
+    "title": "The Man Who Wasn't There",
+    "year": 2001,
+    "runtime": 116,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "countries": [
+      "United Kingdom",
+      "United States of America"
+    ],
+    "studios": [
+      "USA Films",
+      "Working Title Films",
+      "Mike Zoss Productions"
+    ]
+  },
+  {
+    "id": 5516,
+    "title": "The Ladykillers",
+    "year": 2004,
+    "runtime": 104,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Thriller"
+    ],
+    "countries": [
+      "United States of America"
+    ],
+    "studios": [
+      "Touchstone Pictures",
+      "The Jacobson Company",
+      "Mike Zoss Productions"
+    ]
+  },
+  {
+    "id": 4944,
+    "title": "Burn After Reading",
+    "year": 2008,
+    "runtime": 96,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "countries": [
+      "United States of America",
+      "United Kingdom",
+      "France"
+    ],
+    "studios": [
+      "Focus Features",
+      "StudioCanal",
+      "Relativity Media",
+      "Working Title Films",
+      "Mike Zoss Productions"
+    ]
+  },
+  {
+    "id": 11368,
+    "title": "Blood Simple",
+    "year": 1985,
+    "runtime": 97,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "countries": [
+      "United States of America"
+    ],
+    "studios": [
+      "River Road Productions",
+      "Foxton Entertainment"
+    ]
+  },
+  {
+    "id": 6977,
+    "title": "No Country for Old Men",
+    "year": 2007,
+    "runtime": 122,
+    "genres": [
+      "Crime",
+      "Thriller",
+      "Western"
+    ],
+    "countries": [
+      "United States of America"
+    ],
+    "studios": [
+      "Miramax",
+      "Paramount Vantage",
+      "Scott Rudin Productions",
+      "Mike Zoss Productions"
+    ]
+  },
+  {
+    "id": 11934,
+    "title": "The Hudsucker Proxy",
+    "year": 1994,
+    "runtime": 111,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ],
+    "countries": [
+      "United Kingdom",
+      "United States of America"
+    ],
+    "studios": [
+      "Warner Bros. Pictures",
+      "PolyGram Filmed Entertainment",
+      "Silver Pictures",
+      "Working Title Films"
+    ]
+  },
+  {
+    "id": 11775,
+    "title": "Intolerable Cruelty",
+    "year": 2003,
+    "runtime": 100,
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Crime"
+    ],
+    "countries": [
+      "United States of America"
+    ],
+    "studios": [
+      "Universal Pictures",
+      "Imagine Entertainment",
+      "Alphaville Films",
+      "Mike Zoss Productions"
+    ]
+  },
+  {
+    "id": 12573,
+    "title": "A Serious Man",
+    "year": 2009,
+    "runtime": 106,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "countries": [
+      "United States of America",
+      "United Kingdom",
+      "France"
+    ],
+    "studios": [
+      "Focus Features",
+      "StudioCanal",
+      "Relativity Media",
+      "Working Title Films",
+      "Mike Zoss Productions"
+    ]
+  },
+  {
+    "id": 44264,
+    "title": "True Grit",
+    "year": 2010,
+    "runtime": 110,
+    "genres": [
+      "Drama",
+      "Adventure",
+      "Western"
+    ],
+    "countries": [
+      "United States of America"
+    ],
+    "studios": [
+      "Scott Rudin Productions",
+      "Mike Zoss Productions",
+      "Skydance Media",
+      "Paramount Pictures"
+    ]
+  },
+  {
+    "id": 86829,
+    "title": "Inside Llewyn Davis",
+    "year": 2013,
+    "runtime": 105,
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "countries": [
+      "France",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "studios": [
+      "StudioCanal",
+      "Anton Capital Entertainment",
+      "Mike Zoss Productions"
+    ]
+  },
+  {
+    "id": 270487,
+    "title": "Hail, Caesar!",
+    "year": 2016,
+    "runtime": 106,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama",
+      "Mystery",
+      "History"
+    ],
+    "countries": [
+      "United Kingdom",
+      "United States of America"
+    ],
+    "studios": [
+      "Working Title Films",
+      "Mike Zoss Productions",
+      "Universal Pictures"
+    ]
+  },
+  {
+    "id": 2266,
+    "title": "Paris Je T'aime",
+    "year": 2006,
+    "runtime": 120,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "countries": [
+      "France"
+    ],
+    "studios": [
+      "Filmazure",
+      "Pirol Stiftung",
+      "Victoires International"
+    ]
+  },
+  {
+    "id": 537996,
+    "title": "The Ballad of Buster Scruggs",
+    "year": 2018,
+    "runtime": 132,
+    "genres": [
+      "Western",
+      "Comedy",
+      "Drama"
+    ],
+    "countries": [
+      "United States of America"
+    ],
+    "studios": [
+      "Mike Zoss Productions"
+    ]
+  },
+  {
+    "id": 591538,
+    "title": "The Tragedy of Macbeth",
+    "year": 2021,
+    "runtime": 105,
+    "genres": [
+      "Drama"
+    ],
+    "countries": [
+      "United States of America"
+    ],
+    "studios": [
+      "IAC Films",
+      "A24"
+    ]
+  },
+  {
+    "id": 3133,
+    "title": "Badlands",
+    "year": 1974,
+    "runtime": 94,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Romance"
+    ],
+    "countries": [
+      "United States of America"
+    ],
+    "studios": [
+      "Pressman-Williams",
+      "Jill Jakes Production"
+    ]
+  },
+  {
+    "id": 11400,
+    "title": "The New World",
+    "year": 2005,
+    "runtime": 151,
+    "genres": [
+      "Drama",
+      "History",
+      "Romance"
+    ],
+    "countries": [
+      "United States of America"
+    ],
+    "studios": [
+      "New Line Cinema",
+      "Sarah Green Film"
+    ]
+  },
+  {
+    "id": 8741,
+    "title": "The Thin Red Line",
+    "year": 1998,
+    "runtime": 171,
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "countries": [
+      "United States of America"
+    ],
+    "studios": [
+      "Fox 2000 Pictures",
+      "Phoenix Pictures",
+      "George Stevens Jr. Productions",
+      "Geisler-Roberdeau Productions"
+    ]
+  },
+  {
+    "id": 8967,
+    "title": "The Tree of Life",
+    "year": 2011,
+    "runtime": 139,
+    "genres": [
+      "Drama",
+      "Fantasy"
+    ],
+    "countries": [
+      "United States of America"
+    ],
+    "studios": [
+      "River Road Entertainment"
+    ]
+  },
+  {
+    "id": 60281,
+    "title": "To the Wonder",
+    "year": 2013,
+    "runtime": 112,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "countries": [
+      "United States of America"
+    ],
+    "studios": [
+      "Brothers K Productions",
+      "Redbud Pictures",
+      "FilmNation Entertainment"
+    ]
+  },
+  {
+    "id": 16642,
+    "title": "Days of Heaven",
+    "year": 1978,
+    "runtime": 94,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "countries": [
+      "United States of America"
+    ],
+    "studios": [
+      "Paramount Pictures"
+    ]
+  },
+  {
+    "id": 86822,
+    "title": "Voyage of Time: Life's Journey",
+    "year": 2017,
+    "runtime": 90,
+    "genres": [
+      "Documentary",
+      "Drama",
+      "History"
+    ],
+    "countries": [
+      "Germany",
+      "United States of America",
+      "France"
+    ],
+    "studios": [
+      "Sycamore Pictures",
+      "Sophisticated Films",
+      "Wild Bunch",
+      "Plan B Entertainment",
+      "River Road Entertainment"
+    ]
+  },
+  {
+    "id": 86835,
+    "title": "Knight of Cups",
+    "year": 2015,
+    "runtime": 118,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "countries": [
+      "United States of America"
+    ],
+    "studios": [
+      "Waypoint Entertainment",
+      "Dogwood Films"
+    ]
+  },
+  {
+    "id": 330947,
+    "title": "Song to Song",
+    "year": 2017,
+    "runtime": 129,
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
+    "countries": [
+      "United States of America"
+    ],
+    "studios": [
+      "FilmNation Entertainment",
+      "Waypoint Entertainment"
+    ]
+  },
+  {
+    "id": 403300,
+    "title": "A Hidden Life",
+    "year": 2019,
+    "runtime": 173,
+    "genres": [
+      "History",
+      "Drama",
+      "War"
+    ],
+    "countries": [
+      "Germany",
+      "United States of America"
+    ],
+    "studios": [
+      "Studio Babelsberg",
+      "Elizabeth Bay Productions",
+      "Aceway Productions"
+    ]
+  },
+  {
+    "id": 388,
+    "title": "Inside Man",
+    "year": 2006,
+    "runtime": 129,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "countries": [
+      "United States of America"
+    ],
+    "studios": [
+      "40 Acres and a Mule Filmworks",
+      "Imagine Entertainment",
+      "Universal Pictures"
+    ]
+  },
+  {
+    "id": 1429,
+    "title": "25th Hour",
+    "year": 2002,
+    "runtime": 135,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "countries": [
+      "United States of America"
+    ],
+    "studios": [
+      "Touchstone Pictures",
+      "40 Acres and a Mule Filmworks",
+      "25th Hour Productions",
+      "Gamut Films",
+      "Industry Entertainment Partners"
+    ]
+  },
+  {
+    "id": 10279,
+    "title": "Summer of Sam",
+    "year": 1999,
+    "runtime": 142,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "countries": [
+      "United States of America"
+    ],
+    "studios": [
+      "40 Acres and a Mule Filmworks",
+      "Touchstone Pictures"
+    ]
+  },
+  {
+    "id": 1713,
+    "title": "Jungle Fever",
+    "year": 1991,
+    "runtime": 132,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "countries": [
+      "United States of America"
+    ],
+    "studios": [
+      "40 Acres and a Mule Filmworks",
+      "Universal Pictures"
+    ]
+  },
+  {
+    "id": 1883,
+    "title": "Malcolm X",
+    "year": 1992,
+    "runtime": 202,
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "countries": [
+      "United States of America",
+      "Netherlands Antilles"
+    ],
+    "studios": [
+      "Warner Bros. Pictures",
+      "40 Acres and a Mule Filmworks",
+      "Marvin Worth Productions",
+      "Largo International"
+    ]
+  },
+  {
+    "id": 20912,
+    "title": "She Hate Me",
+    "year": 2004,
+    "runtime": 139,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "countries": [
+      "France",
+      "United States of America"
+    ],
+    "studios": [
+      "Pathé",
+      "40 Acres and a Mule Filmworks",
+      "Rule 8"
+    ]
+  },
+  {
+    "id": 30599,
+    "title": "Kobe Doin' Work",
+    "year": 2009,
+    "runtime": 88,
+    "genres": [
+      "Documentary"
+    ],
+    "countries": [
+      "United States of America"
+    ],
+    "studios": [
+      "40 Acres and a Mule Filmworks"
+    ]
+  },
+  {
+    "id": 30621,
+    "title": "HIStory on Film, Volume II",
+    "year": 1997,
+    "runtime": 106,
+    "genres": [
+      "Music"
+    ],
+    "countries": [
+      "Tanzania",
+      "United States of America",
+      "Bosnia and Herzegovina",
+      "Brazil"
+    ],
+    "studios": [
+      "MJJ Ventures Inc",
+      "Sony Music Entertainment UK"
+    ]
+  },
+  {
+    "id": 20649,
+    "title": "Clockers",
+    "year": 1995,
+    "runtime": 128,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "countries": [
+      "United States of America"
+    ],
+    "studios": [
+      "40 Acres and a Mule Filmworks",
+      "Universal Pictures"
+    ]
+  },
+  {
+    "id": 23618,
+    "title": "The Original Kings of Comedy",
+    "year": 2000,
+    "runtime": 115,
+    "genres": [
+      "Comedy",
+      "Documentary"
+    ],
+    "countries": [
+      "United States of America"
+    ],
+    "studios": [
+      "40 Acres and a Mule Filmworks",
+      "Latham Entertainment",
+      "MTV Films",
+      "Paramount Pictures"
+    ]
+  },
+  {
+    "id": 24553,
+    "title": "All the Invisible Children",
+    "year": 2006,
+    "runtime": 124,
+    "genres": [
+      "Drama"
+    ],
+    "countries": [
+      "France",
+      "Italy"
+    ],
+    "studios": [
+      "MK Film Productions S.r.l.",
+      "Frequency Production"
+    ]
+  },
+  {
+    "id": 24664,
+    "title": "Bamboozled",
+    "year": 2000,
+    "runtime": 136,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "countries": [
+      "United States of America"
+    ],
+    "studios": [
+      "New Line Cinema",
+      "40 Acres and a Mule Filmworks"
+    ]
+  },
+  {
+    "id": 12412,
+    "title": "Miracle at St. Anna",
+    "year": 2008,
+    "runtime": 160,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "countries": [
+      "Italy",
+      "United States of America"
+    ],
+    "studios": [
+      "On My Own Produzioni Cinematografiche",
+      "RAI Cinema",
+      "40 Acres and a Mule Filmworks"
+    ]
+  },
+  {
+    "id": 9469,
+    "title": "He Got Game",
+    "year": 1998,
+    "runtime": 136,
+    "genres": [
+      "Drama"
+    ],
+    "countries": [
+      "United States of America"
+    ],
+    "studios": [
+      "40 Acres and a Mule Filmworks",
+      "Touchstone Pictures"
+    ]
+  },
+  {
+    "id": 26580,
+    "title": "4 Little Girls",
+    "year": 1997,
+    "runtime": 102,
+    "genres": [
+      "Documentary",
+      "TV Movie"
+    ],
+    "countries": [
+      "United States of America"
+    ],
+    "studios": [
+      "40 Acres and a Mule Filmworks"
+    ]
+  },
+  {
+    "id": 34152,
+    "title": "Crooklyn",
+    "year": 1994,
+    "runtime": 114,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "countries": [
+      "United States of America"
+    ],
+    "studios": [
+      "40 Acres and a Mule Filmworks",
+      "Universal Pictures",
+      "Child Hood Productions"
+    ]
+  },
+  {
+    "id": 27995,
+    "title": "She's Gotta Have It",
+    "year": 1986,
+    "runtime": 84,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "countries": [
+      "United States of America"
+    ],
+    "studios": [
+      "40 Acres and a Mule Filmworks",
+      "Island Films"
+    ]
+  },
+  {
+    "id": 41823,
+    "title": "Mo' Better Blues",
+    "year": 1990,
+    "runtime": 129,
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "countries": [
+      "United States of America"
+    ],
+    "studios": [
+      "40 Acres and a Mule Filmworks",
+      "Universal Pictures"
+    ]
+  },
+  {
+    "id": 36739,
+    "title": "School Daze",
+    "year": 1988,
+    "runtime": 121,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Music"
+    ],
+    "countries": [
+      "United States of America"
+    ],
+    "studios": [
+      "Columbia Pictures",
+      "40 Acres and a Mule Filmworks"
+    ]
+  },
+  {
+    "id": 37407,
+    "title": "John Leguizamo: Freak",
+    "year": 1998,
+    "runtime": 90,
+    "genres": [
+      "Comedy"
+    ],
+    "countries": [
+      "United States of America"
+    ],
+    "studios": [
+      "Lower East Side Films",
+      "HBO"
+    ]
+  },
+  {
+    "id": 61752,
+    "title": "Girl 6",
+    "year": 1996,
+    "runtime": 108,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "countries": [
+      "United States of America"
+    ],
+    "studios": [
+      "Fox Searchlight Pictures",
+      "40 Acres and a Mule Filmworks"
+    ]
+  },
+  {
+    "id": 65724,
+    "title": "Sucker Free City",
+    "year": 2004,
+    "runtime": 113,
+    "genres": [
+      "Drama",
+      "TV Movie",
+      "Crime"
+    ],
+    "countries": [
+      "United States of America"
+    ],
+    "studios": [
+      "40 Acres and a Mule Filmworks"
+    ]
+  },
+  {
+    "id": 49471,
+    "title": "Get on the Bus",
+    "year": 1996,
+    "runtime": 116,
+    "genres": [
+      "Drama",
+      "Adventure"
+    ],
+    "countries": [
+      "United States of America"
+    ],
+    "studios": [
+      "Columbia Pictures",
+      "40 Acres and a Mule Filmworks"
+    ]
+  },
+  {
+    "id": 84328,
+    "title": "Red Hook Summer",
+    "year": 2012,
+    "runtime": 125,
+    "genres": [
+      "Drama"
+    ],
+    "countries": [
+      "United States of America"
+    ],
+    "studios": [
+      "40 Acres and a Mule Filmworks"
+    ]
+  },
+  {
+    "id": 87516,
+    "title": "Oldboy",
+    "year": 2013,
+    "runtime": 104,
+    "genres": [
+      "Drama",
+      "Thriller",
+      "Mystery",
+      "Action"
+    ],
+    "countries": [
+      "United States of America"
+    ],
+    "studios": [
+      "40 Acres and a Mule Filmworks",
+      "Vertigo Entertainment",
+      "Good Universe",
+      "FilmDistrict"
+    ]
+  },
+  {
+    "id": 127509,
+    "title": "Bad 25",
+    "year": 2012,
+    "runtime": 131,
+    "genres": [
+      "Documentary",
+      "Music"
+    ],
+    "countries": [
+      "United States of America"
+    ],
+    "studios": [
+      "40 Acres and a Mule Filmworks",
+      "Epic Records",
+      "Optimum Productions",
+      "Sony Music Entertainment"
+    ]
+  },
+  {
+    "id": 210041,
+    "title": "Mike Tyson: Undisputed Truth",
+    "year": 2013,
+    "runtime": 90,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Documentary",
+      "TV Movie"
+    ],
+    "countries": [
+      "United States of America"
+    ],
+    "studios": [
+      "HBO Films"
+    ]
+  },
+  {
+    "id": 278316,
+    "title": "Da Sweet Blood of Jesus",
+    "year": 2015,
+    "runtime": 123,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Romance"
+    ],
+    "countries": [
+      "United States of America"
+    ],
+    "studios": [
+      "40 Acres and a Mule Filmworks"
+    ]
+  },
+  {
+    "id": 340275,
+    "title": "Chi-Raq",
+    "year": 2015,
+    "runtime": 127,
+    "genres": [
+      "Drama",
+      "Crime",
+      "Comedy"
+    ],
+    "countries": [
+      "United States of America"
+    ],
+    "studios": [
+      "40 Acres and a Mule Filmworks",
+      "Roadside Attractions",
+      "Amazon Studios"
+    ]
+  },
+  {
+    "id": 373451,
+    "title": "Michael Jackson's Journey from Motown to Off the Wall",
+    "year": 2016,
+    "runtime": 93,
+    "genres": [
+      "Music",
+      "Documentary"
+    ],
+    "countries": [
+      "United States of America"
+    ],
+    "studios": [
+      "40 Acres and a Mule Filmworks"
+    ]
+  },
+  {
+    "id": 1242434,
+    "title": "Highest 2 Lowest",
+    "year": 2025,
+    "runtime": 133,
+    "genres": [
+      "Thriller",
+      "Crime",
+      "Drama"
+    ],
+    "countries": [
+      "United States of America",
+      "Japan"
+    ],
+    "studios": [
+      "A24",
+      "40 Acres and a Mule Filmworks",
+      "Escape Artists",
+      "Mandalay Pictures",
+      "A/Vantage Pictures",
+      "Kurosawa Production"
+    ]
+  },
+  {
+    "id": 487558,
+    "title": "BlacKkKlansman",
+    "year": 2018,
+    "runtime": 136,
+    "genres": [
+      "Crime",
+      "Comedy",
+      "Drama",
+      "History"
+    ],
+    "countries": [
+      "United States of America"
+    ],
+    "studios": [
+      "Legendary Pictures",
+      "QC Entertainment",
+      "Blumhouse Productions",
+      "Monkeypaw Productions",
+      "40 Acres and a Mule Filmworks",
+      "Perfect World Pictures"
+    ]
+  },
+  {
+    "id": 581859,
+    "title": "Da 5 Bloods",
+    "year": 2020,
+    "runtime": 155,
+    "genres": [
+      "War",
+      "Drama"
+    ],
+    "countries": [
+      "United States of America"
+    ],
+    "studios": [
+      "40 Acres and a Mule Filmworks",
+      "Rahway Road Productions"
+    ]
+  },
+  {
+    "id": 668800,
+    "title": "David Byrne's American Utopia",
+    "year": 2020,
+    "runtime": 105,
+    "genres": [
+      "Music",
+      "Documentary"
+    ],
+    "countries": [
+      "United States of America"
+    ],
+    "studios": [
+      "Participant",
+      "River Road Entertainment",
+      "Warner Music Group",
+      "Todomundo",
+      "40 Acres and a Mule Filmworks",
+      "RadicalMedia",
+      "HBO Documentary Films"
+    ]
+  },
+  {
+    "id": 925,
+    "title": "Do the Right Thing",
+    "year": 1989,
+    "runtime": 120,
+    "genres": [
+      "Drama"
+    ],
+    "countries": [
+      "United States of America"
+    ],
+    "studios": [
+      "Universal Pictures",
+      "40 Acres and a Mule Filmworks"
+    ]
+  },
+  {
+    "id": 47680,
+    "title": "The Wall",
+    "year": 1983,
+    "runtime": 117,
+    "genres": [
+      "Drama"
+    ],
+    "countries": [
+      "France",
+      "Turkey"
+    ],
+    "studios": [
+      "Güney Film",
+      "MK2 Films",
+      "TF1 Films Production",
+      "Ministère de la culture"
+    ]
+  },
+  {
+    "id": 52104,
+    "title": "Hope",
+    "year": 1970,
+    "runtime": 100,
+    "genres": [
+      "Drama"
+    ],
+    "countries": [
+      "Turkey"
+    ],
+    "studios": [
+      "Güney Film"
+    ]
+  },
+  {
+    "id": 52556,
+    "title": "The Road",
+    "year": 1982,
+    "runtime": 110,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "countries": [
+      "France",
+      "Switzerland",
+      "Turkey"
+    ],
+    "studios": [
+      "Cactus Films",
+      "Güney Film",
+      "Antenne 2",
+      "SRF"
+    ]
+  },
+  {
+    "id": 12471,
+    "title": "Milk",
+    "year": 2009,
+    "runtime": 102,
+    "genres": [
+      "Drama"
+    ],
+    "countries": [
+      "France",
+      "Germany",
+      "Turkey"
+    ],
+    "studios": [
+      "Kaplan Film"
+    ]
+  },
+  {
+    "id": 37586,
+    "title": "Egg",
+    "year": 2007,
+    "runtime": 97,
+    "genres": [
+      "Drama"
+    ],
+    "countries": [
+      "Turkey",
+      "Greece"
+    ],
+    "studios": [
+      "PPV Athens",
+      "Inkas Film & T.V. Productions",
+      "Kaplan Film"
+    ]
+  },
+  {
+    "id": 44160,
+    "title": "Honey",
+    "year": 2010,
+    "runtime": 103,
+    "genres": [
+      "Drama"
+    ],
+    "countries": [
+      "France",
+      "Germany",
+      "Turkey"
+    ],
+    "studios": [
+      "MEDIA Programme of the European Union",
+      "Filmstiftung Nordrhein-Westfalen",
+      "Eurimages",
+      "ZDF/Arte",
+      "Heimatfilm",
+      "Kaplan Film"
+    ]
+  },
+  {
+    "id": 315840,
+    "title": "Buğday",
+    "year": 2017,
+    "runtime": 127,
+    "genres": [
+      "Drama",
+      "Science Fiction"
+    ],
+    "countries": [
+      "Germany",
+      "France",
+      "Sweden",
+      "Qatar",
+      "Turkey"
+    ],
+    "studios": [
+      "Kaplan Film",
+      "Heimatfilm",
+      "Sophie Dulac Productions",
+      "Chimney Sweden",
+      "Film i Väst",
+      "TRT"
+    ]
   }
 ]

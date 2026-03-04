@@ -1,0 +1,5 @@
+Faz 6: Veri Genişletme aşamaları tamamlandı.
+1-Yönetmen Listesi Genişletildi 
+2- İlişkiler Zenginleştirildi (23 INFLUENCED_BY ilişkisi ve daha fazlası)
+3-Ödül Verisi
+4- TMDb Rating Çekici

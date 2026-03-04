@@ -10,7 +10,9 @@ URI = "bolt://localhost:7687"
 # ── Veri tanımları ─────────────────────────────────────────────────────────────
 
 # (yönetmen adı, [hareket adları])
+# Her yönetmen ait olduğu akımlara eşlendi (toplam 24 benzersiz Movement)
 DIRECTOR_MOVEMENTS: list[tuple[str, list[str]]] = [
+    # ── Orijinal 14 yönetmen ──────────────────────────────────────────────────
     ("Andrei Tarkovsky",      ["Soviet Poetic Cinema"]),
     ("Stanley Kubrick",       ["New Hollywood"]),
     ("Ingmar Bergman",        ["Scandinavian Art Cinema"]),
@@ -25,21 +27,43 @@ DIRECTOR_MOVEMENTS: list[tuple[str, list[str]]] = [
     ("Nuri Bilge Ceylan",     ["New Turkish Cinema"]),
     ("Zeki Demirkubuz",       ["New Turkish Cinema"]),
     ("David Lynch",           ["Surrealist Cinema"]),
+    # ── Fransız Yeni Dalga ───────────────────────────────────────────────────
+    ("Jean-Luc Godard",       ["French New Wave"]),
+    ("François Truffaut",     ["French New Wave"]),
+    # ── Avrupa Sineması ──────────────────────────────────────────────────────
+    ("Michelangelo Antonioni",["Italian Modernism"]),
+    ("Lars von Trier",        ["Dogme 95"]),
+    ("Michael Haneke",        ["Austrian Auteur Cinema"]),
+    ("Wim Wenders",           ["New German Cinema"]),
+    ("Pedro Almodóvar",       ["Movida Madrileña"]),
+    # ── Asya Sineması ────────────────────────────────────────────────────────
+    ("Wong Kar-Wai",          ["Hong Kong New Wave"]),
+    ("Yasujirō Ozu",          ["Classical Japanese Cinema"]),
+    ("Abbas Kiarostami",      ["Iranian New Wave"]),
+    ("Park Chan-wook",        ["Korean New Wave"]),
+    ("Bong Joon-ho",          ["Korean New Wave"]),
+    ("Hirokazu Kore-eda",     ["Classical Japanese Cinema"]),
+    # ── Amerikan Auteur / Bağımsız ───────────────────────────────────────────
+    ("Martin Scorsese",       ["New Hollywood"]),
+    ("Terrence Malick",       ["New Hollywood"]),
+    ("Spike Lee",             ["American Independent Cinema"]),
+    # ── Türk Sineması ────────────────────────────────────────────────────────
+    ("Yılmaz Güney",          ["New Turkish Cinema"]),
+    ("Semih Kaplanoğlu",      ["New Turkish Cinema"]),
 ]
 
-# DB'de olmayan dış kişiler
+# DB'de olmayan dış kişiler — MERGE ile eklenir (varsa dokunulmaz)
 EXTERNAL_PERSONS: list[dict] = [
     {"name": "Robert Bresson",    "role": "Director"},
     {"name": "Fyodor Dostoevsky", "role": "Writer"},
 ]
 
 # (etkileyen, etkilenen) → (etkilenen)-[:INFLUENCED_BY]->(etkileyen)
+# Kanıtlanmış, doğrulanmış ilişkiler
 INFLUENCES: list[tuple[str, str]] = [
     ("Andrei Tarkovsky",  "Nuri Bilge Ceylan"),
     ("Ingmar Bergman",    "Andrei Tarkovsky"),
     ("Ingmar Bergman",    "Woody Allen"),
-    ("Akira Kurosawa",    "Federico Fellini"),
-    ("Jean Renoir",       "Federico Fellini"),
     ("Alfred Hitchcock",  "David Lynch"),
     ("Alfred Hitchcock",  "David Fincher"),
     ("Federico Fellini",  "David Lynch"),
@@ -47,6 +71,9 @@ INFLUENCES: list[tuple[str, str]] = [
     ("Stanley Kubrick",   "David Fincher"),
     ("Robert Bresson",    "Andrei Tarkovsky"),
     ("Fyodor Dostoevsky", "Zeki Demirkubuz"),
+    # Kanıtsız olduğu tespit edilen ilişkiler buradan çıkarıldı:
+    #   ("Akira Kurosawa", "Federico Fellini")   — karşılıklı hayranlık, etki belgelenmemiş
+    #   ("Jean Renoir",    "Federico Fellini")   — spesifik kanıt bulunamadı
 ]
 
 
@@ -78,6 +105,9 @@ def load_movements(session) -> None:
             )
             total_rels += 1
 
+    # Benzersiz Movement sayısını logla
+    movements_set = {m for _, ms in DIRECTOR_MOVEMENTS for m in ms}
+    log.info(f"{len(movements_set)} benzersiz Movement node işlendi.")
     log.info(f"{total_rels} PART_OF_MOVEMENT ilişkisi işlendi.")
 
 
@@ -114,7 +144,10 @@ def load_influenced_by(session) -> None:
                 influenced=influenced_name,
             )
         except Exception as e:
-            log.warning(f"  Atlandı — {influenced_name} -[:INFLUENCED_BY]-> {influencer_name}: {e}")
+            log.warning(
+                f"  Atlandı — {influenced_name} -[:INFLUENCED_BY]-> "
+                f"{influencer_name}: {e}"
+            )
             skipped += 1
 
     loaded = len(INFLUENCES) - skipped
@@ -139,9 +172,9 @@ def verify(session) -> None:
     ).single()["c"]
 
     log.info("─" * 55)
-    log.info(f"Toplam Movement node sayısı      : {movement_count}")
-    log.info(f"Toplam INFLUENCED_BY ilişki sayısı  : {influenced_by_count}")
-    log.info(f"Toplam PART_OF_MOVEMENT ilişki sayısı: {part_of_movement_count}")
+    log.info(f"Toplam Movement node sayısı       : {movement_count}")
+    log.info(f"Toplam INFLUENCED_BY ilişki sayısı: {influenced_by_count}")
+    log.info(f"Toplam PART_OF_MOVEMENT sayısı    : {part_of_movement_count}")
     log.info("─" * 55)
 
 

@@ -1,0 +1,893 @@
+[
+  {
+    "film_title": "Ivan's Childhood",
+    "film_year": 1962,
+    "awards": [
+      {"festival": "Venice",  "award": "Golden Lion",     "year": 1962, "won": true}
+    ]
+  },
+  {
+    "film_title": "Solaris",
+    "film_year": 1972,
+    "awards": [
+      {"festival": "Cannes",  "award": "Grand Prix",      "year": 1972, "won": true}
+    ]
+  },
+  {
+    "film_title": "Nostalgia",
+    "film_year": 1983,
+    "awards": [
+      {"festival": "Cannes",  "award": "Grand Jury Prize","year": 1983, "won": true}
+    ]
+  },
+  {
+    "film_title": "The Sacrifice",
+    "film_year": 1986,
+    "awards": [
+      {"festival": "Cannes",  "award": "Grand Jury Prize","year": 1986, "won": true}
+    ]
+  },
+  {
+    "film_title": "2001: A Space Odyssey",
+    "film_year": 1968,
+    "awards": [
+      {"festival": "Oscar", "award": "Best Visual Effects",  "year": 1969, "won": true},
+      {"festival": "Oscar", "award": "Best Director",        "year": 1969, "won": false},
+      {"festival": "Oscar", "award": "Best Original Screenplay", "year": 1969, "won": false}
+    ]
+  },
+  {
+    "film_title": "Barry Lyndon",
+    "film_year": 1975,
+    "awards": [
+      {"festival": "Oscar", "award": "Best Cinematography",   "year": 1976, "won": true},
+      {"festival": "Oscar", "award": "Best Art Direction",    "year": 1976, "won": true},
+      {"festival": "Oscar", "award": "Best Costume Design",   "year": 1976, "won": true},
+      {"festival": "Oscar", "award": "Best Adapted Score",    "year": 1976, "won": true}
+    ]
+  },
+  {
+    "film_title": "A Clockwork Orange",
+    "film_year": 1971,
+    "awards": [
+      {"festival": "Oscar", "award": "Best Picture",           "year": 1972, "won": false},
+      {"festival": "Oscar", "award": "Best Director",          "year": 1972, "won": false},
+      {"festival": "Oscar", "award": "Best Adapted Screenplay","year": 1972, "won": false},
+      {"festival": "Oscar", "award": "Best Film Editing",      "year": 1972, "won": false}
+    ]
+  },
+  {
+    "film_title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+    "film_year": 1964,
+    "awards": [
+      {"festival": "Oscar", "award": "Best Picture",           "year": 1965, "won": false},
+      {"festival": "Oscar", "award": "Best Director",          "year": 1965, "won": false},
+      {"festival": "Oscar", "award": "Best Adapted Screenplay","year": 1965, "won": false}
+    ]
+  },
+  {
+    "film_title": "Smiles of a Summer Night",
+    "film_year": 1955,
+    "awards": [
+      {"festival": "Cannes", "award": "Special Jury Prize",   "year": 1956, "won": true}
+    ]
+  },
+  {
+    "film_title": "The Seventh Seal",
+    "film_year": 1957,
+    "awards": [
+      {"festival": "Cannes", "award": "Special Jury Prize",   "year": 1957, "won": true}
+    ]
+  },
+  {
+    "film_title": "Wild Strawberries",
+    "film_year": 1957,
+    "awards": [
+      {"festival": "Berlin", "award": "Golden Bear",          "year": 1958, "won": true}
+    ]
+  },
+  {
+    "film_title": "Brink of Life",
+    "film_year": 1958,
+    "awards": [
+      {"festival": "Cannes", "award": "Best Director",        "year": 1958, "won": true}
+    ]
+  },
+  {
+    "film_title": "The Magician",
+    "film_year": 1958,
+    "awards": [
+      {"festival": "Venice", "award": "Special Jury Prize",  "year": 1958, "won": true}
+    ]
+  },
+  {
+    "film_title": "The Virgin Spring",
+    "film_year": 1960,
+    "awards": [
+      {"festival": "Oscar", "award": "Best Foreign Language Film", "year": 1961, "won": true}
+    ]
+  },
+  {
+    "film_title": "Through a Glass Darkly",
+    "film_year": 1961,
+    "awards": [
+      {"festival": "Oscar", "award": "Best Foreign Language Film", "year": 1962, "won": true}
+    ]
+  },
+  {
+    "film_title": "Persona",
+    "film_year": 1966,
+    "awards": [
+      {"festival": "National Society of Film Critics", "award": "Best Film", "year": 1967, "won": true}
+    ]
+  },
+  {
+    "film_title": "Cries and Whispers",
+    "film_year": 1972,
+    "awards": [
+      {"festival": "Oscar", "award": "Best Cinematography",  "year": 1974, "won": true},
+      {"festival": "Oscar", "award": "Best Picture",         "year": 1974, "won": false},
+      {"festival": "Oscar", "award": "Best Director",        "year": 1974, "won": false}
+    ]
+  },
+  {
+    "film_title": "Fanny and Alexander",
+    "film_year": 1982,
+    "awards": [
+      {"festival": "Oscar", "award": "Best Foreign Language Film", "year": 1984, "won": true},
+      {"festival": "Oscar", "award": "Best Cinematography",        "year": 1984, "won": true},
+      {"festival": "Oscar", "award": "Best Art Direction",         "year": 1984, "won": true},
+      {"festival": "Oscar", "award": "Best Costume Design",        "year": 1984, "won": true}
+    ]
+  },
+  {
+    "film_title": "Rebecca",
+    "film_year": 1940,
+    "awards": [
+      {"festival": "Oscar", "award": "Best Picture",           "year": 1941, "won": true},
+      {"festival": "Oscar", "award": "Best Cinematography",    "year": 1941, "won": true},
+      {"festival": "Oscar", "award": "Best Director",          "year": 1941, "won": false},
+      {"festival": "Oscar", "award": "Best Supporting Actress","year": 1941, "won": false}
+    ]
+  },
+  {
+    "film_title": "Spellbound",
+    "film_year": 1945,
+    "awards": [
+      {"festival": "Oscar", "award": "Best Original Score",   "year": 1946, "won": true},
+      {"festival": "Oscar", "award": "Best Picture",          "year": 1946, "won": false},
+      {"festival": "Oscar", "award": "Best Director",         "year": 1946, "won": false}
+    ]
+  },
+  {
+    "film_title": "Psycho",
+    "film_year": 1960,
+    "awards": [
+      {"festival": "Oscar", "award": "Best Director",          "year": 1961, "won": false},
+      {"festival": "Oscar", "award": "Best Supporting Actress","year": 1961, "won": false},
+      {"festival": "Oscar", "award": "Best Cinematography",    "year": 1961, "won": false}
+    ]
+  },
+  {
+    "film_title": "Rear Window",
+    "film_year": 1954,
+    "awards": [
+      {"festival": "Oscar", "award": "Best Director",          "year": 1955, "won": false},
+      {"festival": "Oscar", "award": "Best Screenplay",        "year": 1955, "won": false}
+    ]
+  },
+  {
+    "film_title": "La Dolce Vita",
+    "film_year": 1960,
+    "awards": [
+      {"festival": "Cannes", "award": "Palme d'Or",            "year": 1960, "won": true}
+    ]
+  },
+  {
+    "film_title": "La Strada",
+    "film_year": 1954,
+    "awards": [
+      {"festival": "Oscar", "award": "Best Foreign Language Film", "year": 1957, "won": true}
+    ]
+  },
+  {
+    "film_title": "Nights of Cabiria",
+    "film_year": 1957,
+    "awards": [
+      {"festival": "Oscar", "award": "Best Foreign Language Film", "year": 1958, "won": true}
+    ]
+  },
+  {
+    "film_title": "8½",
+    "film_year": 1963,
+    "awards": [
+      {"festival": "Oscar", "award": "Best Foreign Language Film","year": 1964, "won": true},
+      {"festival": "Oscar", "award": "Best Costume Design",        "year": 1964, "won": true},
+      {"festival": "Oscar", "award": "Best Director",              "year": 1964, "won": false},
+      {"festival": "Oscar", "award": "Best Original Screenplay",   "year": 1964, "won": false}
+    ]
+  },
+  {
+    "film_title": "Amarcord",
+    "film_year": 1973,
+    "awards": [
+      {"festival": "Oscar", "award": "Best Foreign Language Film", "year": 1975, "won": true}
+    ]
+  },
+  {
+    "film_title": "Rashomon",
+    "film_year": 1950,
+    "awards": [
+      {"festival": "Venice", "award": "Golden Lion",              "year": 1951, "won": true},
+      {"festival": "Oscar",  "award": "Honorary Foreign Film Award","year": 1952, "won": true}
+    ]
+  },
+  {
+    "film_title": "Seven Samurai",
+    "film_year": 1954,
+    "awards": [
+      {"festival": "Venice", "award": "Silver Lion",             "year": 1954, "won": true}
+    ]
+  },
+  {
+    "film_title": "Kagemusha",
+    "film_year": 1980,
+    "awards": [
+      {"festival": "Cannes", "award": "Palme d'Or",              "year": 1980, "won": true}
+    ]
+  },
+  {
+    "film_title": "Ran",
+    "film_year": 1985,
+    "awards": [
+      {"festival": "Oscar", "award": "Best Costume Design",      "year": 1986, "won": true},
+      {"festival": "Oscar", "award": "Best Director",            "year": 1986, "won": false},
+      {"festival": "Oscar", "award": "Best Cinematography",      "year": 1986, "won": false},
+      {"festival": "Oscar", "award": "Best Art Direction",       "year": 1986, "won": false}
+    ]
+  },
+  {
+    "film_title": "Dersu Uzala",
+    "film_year": 1975,
+    "awards": [
+      {"festival": "Oscar", "award": "Best Foreign Language Film","year": 1976, "won": true}
+    ]
+  },
+  {
+    "film_title": "Grand Illusion",
+    "film_year": 1937,
+    "awards": [
+      {"festival": "Venice", "award": "Best Foreign Film",       "year": 1937, "won": true},
+      {"festival": "Oscar",  "award": "Best Picture",            "year": 1938, "won": false}
+    ]
+  },
+  {
+    "film_title": "Annie Hall",
+    "film_year": 1977,
+    "awards": [
+      {"festival": "Oscar", "award": "Best Picture",            "year": 1978, "won": true},
+      {"festival": "Oscar", "award": "Best Director",           "year": 1978, "won": true},
+      {"festival": "Oscar", "award": "Best Original Screenplay","year": 1978, "won": true},
+      {"festival": "Oscar", "award": "Best Actress",            "year": 1978, "won": true}
+    ]
+  },
+  {
+    "film_title": "Hannah and Her Sisters",
+    "film_year": 1986,
+    "awards": [
+      {"festival": "Oscar", "award": "Best Original Screenplay", "year": 1987, "won": true},
+      {"festival": "Oscar", "award": "Best Supporting Actor",    "year": 1987, "won": true},
+      {"festival": "Oscar", "award": "Best Supporting Actress",  "year": 1987, "won": true}
+    ]
+  },
+  {
+    "film_title": "Midnight in Paris",
+    "film_year": 2011,
+    "awards": [
+      {"festival": "Oscar", "award": "Best Original Screenplay", "year": 2012, "won": true}
+    ]
+  },
+  {
+    "film_title": "Blue Jasmine",
+    "film_year": 2013,
+    "awards": [
+      {"festival": "Oscar", "award": "Best Actress", "year": 2014, "won": true}
+    ]
+  },
+  {
+    "film_title": "Bullets Over Broadway",
+    "film_year": 1994,
+    "awards": [
+      {"festival": "Oscar", "award": "Best Supporting Actress", "year": 1995, "won": true},
+      {"festival": "Oscar", "award": "Best Director",           "year": 1995, "won": false}
+    ]
+  },
+  {
+    "film_title": "Wild at Heart",
+    "film_year": 1990,
+    "awards": [
+      {"festival": "Cannes", "award": "Palme d'Or", "year": 1990, "won": true}
+    ]
+  },
+  {
+    "film_title": "Mulholland Drive",
+    "film_year": 2001,
+    "awards": [
+      {"festival": "Cannes", "award": "Best Director", "year": 2001, "won": true},
+      {"festival": "Oscar",  "award": "Best Director", "year": 2002, "won": false}
+    ]
+  },
+  {
+    "film_title": "The Elephant Man",
+    "film_year": 1980,
+    "awards": [
+      {"festival": "Oscar", "award": "Best Picture",           "year": 1981, "won": false},
+      {"festival": "Oscar", "award": "Best Director",          "year": 1981, "won": false},
+      {"festival": "Oscar", "award": "Best Adapted Screenplay","year": 1981, "won": false},
+      {"festival": "Oscar", "award": "Best Actor",             "year": 1981, "won": false}
+    ]
+  },
+  {
+    "film_title": "Barton Fink",
+    "film_year": 1991,
+    "awards": [
+      {"festival": "Cannes", "award": "Palme d'Or",    "year": 1991, "won": true},
+      {"festival": "Cannes", "award": "Best Director", "year": 1991, "won": true}
+    ]
+  },
+  {
+    "film_title": "Pulp Fiction",
+    "film_year": 1994,
+    "awards": [
+      {"festival": "Cannes", "award": "Palme d'Or",             "year": 1994, "won": true},
+      {"festival": "Oscar",  "award": "Best Original Screenplay","year": 1995, "won": true},
+      {"festival": "Oscar",  "award": "Best Picture",            "year": 1995, "won": false},
+      {"festival": "Oscar",  "award": "Best Director",           "year": 1995, "won": false}
+    ]
+  },
+  {
+    "film_title": "Django Unchained",
+    "film_year": 2012,
+    "awards": [
+      {"festival": "Oscar", "award": "Best Original Screenplay", "year": 2013, "won": true}
+    ]
+  },
+  {
+    "film_title": "The Hateful Eight",
+    "film_year": 2015,
+    "awards": [
+      {"festival": "Oscar", "award": "Best Original Score",      "year": 2016, "won": true}
+    ]
+  },
+  {
+    "film_title": "Once Upon a Time... in Hollywood",
+    "film_year": 2019,
+    "awards": [
+      {"festival": "Oscar", "award": "Best Supporting Actor",    "year": 2020, "won": true},
+      {"festival": "Oscar", "award": "Best Production Design",   "year": 2020, "won": true},
+      {"festival": "Oscar", "award": "Best Picture",             "year": 2020, "won": false},
+      {"festival": "Oscar", "award": "Best Director",            "year": 2020, "won": false}
+    ]
+  },
+  {
+    "film_title": "The Social Network",
+    "film_year": 2010,
+    "awards": [
+      {"festival": "Oscar", "award": "Best Adapted Screenplay",  "year": 2011, "won": true},
+      {"festival": "Oscar", "award": "Best Original Score",      "year": 2011, "won": true},
+      {"festival": "Oscar", "award": "Best Film Editing",        "year": 2011, "won": true},
+      {"festival": "Oscar", "award": "Best Picture",             "year": 2011, "won": false},
+      {"festival": "Oscar", "award": "Best Director",            "year": 2011, "won": false}
+    ]
+  },
+  {
+    "film_title": "The Girl with the Dragon Tattoo",
+    "film_year": 2011,
+    "awards": [
+      {"festival": "Oscar", "award": "Best Film Editing", "year": 2012, "won": true}
+    ]
+  },
+  {
+    "film_title": "Mank",
+    "film_year": 2020,
+    "awards": [
+      {"festival": "Oscar", "award": "Best Cinematography",  "year": 2021, "won": true},
+      {"festival": "Oscar", "award": "Best Production Design","year": 2021, "won": true},
+      {"festival": "Oscar", "award": "Best Picture",         "year": 2021, "won": false},
+      {"festival": "Oscar", "award": "Best Director",        "year": 2021, "won": false}
+    ]
+  },
+  {
+    "film_title": "Magnolia",
+    "film_year": 1999,
+    "awards": [
+      {"festival": "Berlin", "award": "Golden Bear", "year": 2000, "won": true}
+    ]
+  },
+  {
+    "film_title": "Punch-Drunk Love",
+    "film_year": 2002,
+    "awards": [
+      {"festival": "Cannes", "award": "Best Director", "year": 2002, "won": true}
+    ]
+  },
+  {
+    "film_title": "There Will Be Blood",
+    "film_year": 2007,
+    "awards": [
+      {"festival": "Oscar", "award": "Best Actor",         "year": 2008, "won": true},
+      {"festival": "Oscar", "award": "Best Cinematography","year": 2008, "won": true},
+      {"festival": "Oscar", "award": "Best Picture",       "year": 2008, "won": false},
+      {"festival": "Oscar", "award": "Best Director",      "year": 2008, "won": false}
+    ]
+  },
+  {
+    "film_title": "The Master",
+    "film_year": 2012,
+    "awards": [
+      {"festival": "Venice", "award": "Silver Lion",       "year": 2012, "won": true}
+    ]
+  },
+  {
+    "film_title": "Distant",
+    "film_year": 2002,
+    "awards": [
+      {"festival": "Cannes", "award": "Grand Prix",        "year": 2003, "won": true}
+    ]
+  },
+  {
+    "film_title": "Three Monkeys",
+    "film_year": 2008,
+    "awards": [
+      {"festival": "Cannes", "award": "Best Director",     "year": 2008, "won": true}
+    ]
+  },
+  {
+    "film_title": "Once Upon a Time in Anatolia",
+    "film_year": 2011,
+    "awards": [
+      {"festival": "Cannes", "award": "Grand Prix",        "year": 2011, "won": true}
+    ]
+  },
+  {
+    "film_title": "Winter Sleep",
+    "film_year": 2014,
+    "awards": [
+      {"festival": "Cannes", "award": "Palme d'Or",        "year": 2014, "won": true}
+    ]
+  },
+  {
+    "film_title": "About Dry Grasses",
+    "film_year": 2023,
+    "awards": [
+      {"festival": "Cannes", "award": "Best Actress",      "year": 2023, "won": true}
+    ]
+  },
+  {
+    "film_title": "Breathless",
+    "film_year": 1960,
+    "awards": [
+      {"festival": "Berlin", "award": "Silver Bear (Best Director)", "year": 1960, "won": true}
+    ]
+  },
+  {
+    "film_title": "Vivre Sa Vie",
+    "film_year": 1962,
+    "awards": [
+      {"festival": "Venice", "award": "Special Jury Prize", "year": 1962, "won": true}
+    ]
+  },
+  {
+    "film_title": "First Name: Carmen",
+    "film_year": 1983,
+    "awards": [
+      {"festival": "Venice", "award": "Golden Lion",        "year": 1983, "won": true}
+    ]
+  },
+  {
+    "film_title": "The 400 Blows",
+    "film_year": 1959,
+    "awards": [
+      {"festival": "Cannes", "award": "Best Director",      "year": 1959, "won": true}
+    ]
+  },
+  {
+    "film_title": "Day for Night",
+    "film_year": 1973,
+    "awards": [
+      {"festival": "Oscar",  "award": "Best Foreign Language Film", "year": 1974, "won": true}
+    ]
+  },
+  {
+    "film_title": "L'Avventura",
+    "film_year": 1960,
+    "awards": [
+      {"festival": "Cannes", "award": "Jury Prize",         "year": 1960, "won": true}
+    ]
+  },
+  {
+    "film_title": "L'Eclisse",
+    "film_year": 1962,
+    "awards": [
+      {"festival": "Cannes", "award": "Jury Prize",         "year": 1962, "won": true}
+    ]
+  },
+  {
+    "film_title": "Blow-Up",
+    "film_year": 1966,
+    "awards": [
+      {"festival": "Cannes", "award": "Palme d'Or",         "year": 1967, "won": true}
+    ]
+  },
+  {
+    "film_title": "A Short Film About Killing",
+    "film_year": 1988,
+    "awards": [
+      {"festival": "Cannes", "award": "Jury Prize",         "year": 1988, "won": true}
+    ]
+  },
+  {
+    "film_title": "The Double Life of Véronique",
+    "film_year": 1991,
+    "awards": [
+      {"festival": "Cannes", "award": "Best Actress",       "year": 1991, "won": true}
+    ]
+  },
+  {
+    "film_title": "Three Colors: Blue",
+    "film_year": 1993,
+    "awards": [
+      {"festival": "Venice", "award": "Golden Lion",        "year": 1993, "won": true}
+    ]
+  },
+  {
+    "film_title": "The Element of Crime",
+    "film_year": 1984,
+    "awards": [
+      {"festival": "Cannes", "award": "Technical Grand Prize", "year": 1984, "won": true}
+    ]
+  },
+  {
+    "film_title": "Europa",
+    "film_year": 1991,
+    "awards": [
+      {"festival": "Cannes", "award": "Jury Prize",         "year": 1991, "won": true}
+    ]
+  },
+  {
+    "film_title": "Breaking the Waves",
+    "film_year": 1996,
+    "awards": [
+      {"festival": "Cannes", "award": "Grand Prix",         "year": 1996, "won": true}
+    ]
+  },
+  {
+    "film_title": "Dancer in the Dark",
+    "film_year": 2000,
+    "awards": [
+      {"festival": "Cannes", "award": "Palme d'Or",         "year": 2000, "won": true}
+    ]
+  },
+  {
+    "film_title": "Melancholia",
+    "film_year": 2011,
+    "awards": [
+      {"festival": "Cannes", "award": "Best Actress",       "year": 2011, "won": true}
+    ]
+  },
+  {
+    "film_title": "The Piano Teacher",
+    "film_year": 2001,
+    "awards": [
+      {"festival": "Cannes", "award": "Grand Prix",         "year": 2001, "won": true},
+      {"festival": "Cannes", "award": "Best Actress",       "year": 2001, "won": true},
+      {"festival": "Cannes", "award": "Best Actor",         "year": 2001, "won": true}
+    ]
+  },
+  {
+    "film_title": "Caché",
+    "film_year": 2005,
+    "awards": [
+      {"festival": "Cannes", "award": "Best Director",      "year": 2005, "won": true}
+    ]
+  },
+  {
+    "film_title": "The White Ribbon",
+    "film_year": 2009,
+    "awards": [
+      {"festival": "Cannes", "award": "Palme d'Or",                 "year": 2009, "won": true},
+      {"festival": "Oscar",  "award": "Best Foreign Language Film", "year": 2010, "won": false}
+    ]
+  },
+  {
+    "film_title": "Amour",
+    "film_year": 2012,
+    "awards": [
+      {"festival": "Cannes", "award": "Palme d'Or",                 "year": 2012, "won": true},
+      {"festival": "Oscar",  "award": "Best Foreign Language Film", "year": 2013, "won": true},
+      {"festival": "Oscar",  "award": "Best Picture",               "year": 2013, "won": false},
+      {"festival": "Oscar",  "award": "Best Director",              "year": 2013, "won": false}
+    ]
+  },
+  {
+    "film_title": "Paris, Texas",
+    "film_year": 1984,
+    "awards": [
+      {"festival": "Cannes", "award": "Palme d'Or",    "year": 1984, "won": true}
+    ]
+  },
+  {
+    "film_title": "Wings of Desire",
+    "film_year": 1987,
+    "awards": [
+      {"festival": "Cannes", "award": "Best Director", "year": 1987, "won": true}
+    ]
+  },
+  {
+    "film_title": "The Salt of the Earth",
+    "film_year": 2014,
+    "awards": [
+      {"festival": "Cannes", "award": "Special Jury Prize", "year": 2014, "won": true}
+    ]
+  },
+  {
+    "film_title": "Happy Together",
+    "film_year": 1997,
+    "awards": [
+      {"festival": "Cannes", "award": "Best Director",  "year": 1997, "won": true}
+    ]
+  },
+  {
+    "film_title": "In the Mood for Love",
+    "film_year": 2000,
+    "awards": [
+      {"festival": "Cannes", "award": "Best Actor",     "year": 2000, "won": true}
+    ]
+  },
+  {
+    "film_title": "Taste of Cherry",
+    "film_year": 1997,
+    "awards": [
+      {"festival": "Cannes", "award": "Palme d'Or",    "year": 1997, "won": true}
+    ]
+  },
+  {
+    "film_title": "The Wind Will Carry Us",
+    "film_year": 1999,
+    "awards": [
+      {"festival": "Venice", "award": "Grand Jury Prize", "year": 1999, "won": true}
+    ]
+  },
+  {
+    "film_title": "Certified Copy",
+    "film_year": 2010,
+    "awards": [
+      {"festival": "Cannes", "award": "Best Actress",   "year": 2010, "won": true}
+    ]
+  },
+  {
+    "film_title": "Oldboy",
+    "film_year": 2003,
+    "awards": [
+      {"festival": "Cannes", "award": "Grand Prix",    "year": 2004, "won": true}
+    ]
+  },
+  {
+    "film_title": "Decision to Leave",
+    "film_year": 2022,
+    "awards": [
+      {"festival": "Cannes", "award": "Best Director", "year": 2022, "won": true}
+    ]
+  },
+  {
+    "film_title": "Memories of Murder",
+    "film_year": 2003,
+    "awards": [
+      {"festival": "San Sebastian", "award": "FIPRESCI Prize", "year": 2003, "won": true}
+    ]
+  },
+  {
+    "film_title": "Parasite",
+    "film_year": 2019,
+    "awards": [
+      {"festival": "Cannes", "award": "Palme d'Or",                  "year": 2019, "won": true},
+      {"festival": "Oscar",  "award": "Best Picture",                "year": 2020, "won": true},
+      {"festival": "Oscar",  "award": "Best Director",               "year": 2020, "won": true},
+      {"festival": "Oscar",  "award": "Best Original Screenplay",    "year": 2020, "won": true},
+      {"festival": "Oscar",  "award": "Best International Feature Film","year": 2020, "won": true}
+    ]
+  },
+  {
+    "film_title": "Nobody Knows",
+    "film_year": 2004,
+    "awards": [
+      {"festival": "Cannes", "award": "Best Actor",    "year": 2004, "won": true}
+    ]
+  },
+  {
+    "film_title": "Like Father, Like Son",
+    "film_year": 2013,
+    "awards": [
+      {"festival": "Cannes", "award": "Jury Prize",    "year": 2013, "won": true}
+    ]
+  },
+  {
+    "film_title": "Shoplifters",
+    "film_year": 2018,
+    "awards": [
+      {"festival": "Cannes", "award": "Palme d'Or",    "year": 2018, "won": true}
+    ]
+  },
+  {
+    "film_title": "Taxi Driver",
+    "film_year": 1976,
+    "awards": [
+      {"festival": "Cannes", "award": "Palme d'Or",   "year": 1976, "won": true}
+    ]
+  },
+  {
+    "film_title": "Raging Bull",
+    "film_year": 1980,
+    "awards": [
+      {"festival": "Oscar", "award": "Best Actor",         "year": 1981, "won": true},
+      {"festival": "Oscar", "award": "Best Film Editing",  "year": 1981, "won": true},
+      {"festival": "Oscar", "award": "Best Picture",       "year": 1981, "won": false},
+      {"festival": "Oscar", "award": "Best Director",      "year": 1981, "won": false}
+    ]
+  },
+  {
+    "film_title": "GoodFellas",
+    "film_year": 1990,
+    "awards": [
+      {"festival": "Venice", "award": "Silver Lion",          "year": 1990, "won": true},
+      {"festival": "Oscar",  "award": "Best Supporting Actor","year": 1991, "won": true},
+      {"festival": "Oscar",  "award": "Best Picture",         "year": 1991, "won": false},
+      {"festival": "Oscar",  "award": "Best Director",        "year": 1991, "won": false}
+    ]
+  },
+  {
+    "film_title": "The Color of Money",
+    "film_year": 1986,
+    "awards": [
+      {"festival": "Oscar", "award": "Best Actor", "year": 1987, "won": true}
+    ]
+  },
+  {
+    "film_title": "The Age of Innocence",
+    "film_year": 1993,
+    "awards": [
+      {"festival": "Oscar", "award": "Best Costume Design", "year": 1994, "won": true}
+    ]
+  },
+  {
+    "film_title": "The Aviator",
+    "film_year": 2004,
+    "awards": [
+      {"festival": "Oscar", "award": "Best Cinematography",  "year": 2005, "won": true},
+      {"festival": "Oscar", "award": "Best Art Direction",   "year": 2005, "won": true},
+      {"festival": "Oscar", "award": "Best Costume Design",  "year": 2005, "won": true},
+      {"festival": "Oscar", "award": "Best Film Editing",    "year": 2005, "won": true},
+      {"festival": "Oscar", "award": "Best Picture",         "year": 2005, "won": false},
+      {"festival": "Oscar", "award": "Best Director",        "year": 2005, "won": false}
+    ]
+  },
+  {
+    "film_title": "The Departed",
+    "film_year": 2006,
+    "awards": [
+      {"festival": "Oscar", "award": "Best Picture",           "year": 2007, "won": true},
+      {"festival": "Oscar", "award": "Best Director",          "year": 2007, "won": true},
+      {"festival": "Oscar", "award": "Best Adapted Screenplay","year": 2007, "won": true},
+      {"festival": "Oscar", "award": "Best Film Editing",      "year": 2007, "won": true}
+    ]
+  },
+  {
+    "film_title": "Hugo",
+    "film_year": 2011,
+    "awards": [
+      {"festival": "Oscar", "award": "Best Cinematography",   "year": 2012, "won": true},
+      {"festival": "Oscar", "award": "Best Art Direction",    "year": 2012, "won": true},
+      {"festival": "Oscar", "award": "Best Sound Mixing",     "year": 2012, "won": true},
+      {"festival": "Oscar", "award": "Best Sound Editing",    "year": 2012, "won": true},
+      {"festival": "Oscar", "award": "Best Visual Effects",   "year": 2012, "won": true},
+      {"festival": "Oscar", "award": "Best Picture",          "year": 2012, "won": false},
+      {"festival": "Oscar", "award": "Best Director",         "year": 2012, "won": false}
+    ]
+  },
+  {
+    "film_title": "Fargo",
+    "film_year": 1996,
+    "awards": [
+      {"festival": "Oscar", "award": "Best Original Screenplay","year": 1997, "won": true},
+      {"festival": "Oscar", "award": "Best Actress",            "year": 1997, "won": true},
+      {"festival": "Oscar", "award": "Best Picture",            "year": 1997, "won": false},
+      {"festival": "Oscar", "award": "Best Director",           "year": 1997, "won": false}
+    ]
+  },
+  {
+    "film_title": "No Country for Old Men",
+    "film_year": 2007,
+    "awards": [
+      {"festival": "Oscar", "award": "Best Picture",           "year": 2008, "won": true},
+      {"festival": "Oscar", "award": "Best Director",          "year": 2008, "won": true},
+      {"festival": "Oscar", "award": "Best Supporting Actor",  "year": 2008, "won": true},
+      {"festival": "Oscar", "award": "Best Adapted Screenplay","year": 2008, "won": true}
+    ]
+  },
+  {
+    "film_title": "Inside Llewyn Davis",
+    "film_year": 2013,
+    "awards": [
+      {"festival": "Cannes", "award": "Grand Prix", "year": 2013, "won": true}
+    ]
+  },
+  {
+    "film_title": "Days of Heaven",
+    "film_year": 1978,
+    "awards": [
+      {"festival": "Oscar", "award": "Best Cinematography", "year": 1979, "won": true}
+    ]
+  },
+  {
+    "film_title": "The Tree of Life",
+    "film_year": 2011,
+    "awards": [
+      {"festival": "Cannes", "award": "Palme d'Or",   "year": 2011, "won": true},
+      {"festival": "Oscar",  "award": "Best Picture", "year": 2012, "won": false},
+      {"festival": "Oscar",  "award": "Best Director","year": 2012, "won": false}
+    ]
+  },
+  {
+    "film_title": "BlacKkKlansman",
+    "film_year": 2018,
+    "awards": [
+      {"festival": "Cannes", "award": "Grand Prix",              "year": 2018, "won": true},
+      {"festival": "Oscar",  "award": "Best Adapted Screenplay", "year": 2019, "won": true}
+    ]
+  },
+  {
+    "film_title": "Do the Right Thing",
+    "film_year": 1989,
+    "awards": [
+      {"festival": "Oscar", "award": "Best Original Screenplay","year": 1990, "won": false},
+      {"festival": "Oscar", "award": "Best Supporting Actor",   "year": 1990, "won": false}
+    ]
+  },
+  {
+    "film_title": "All About My Mother",
+    "film_year": 1999,
+    "awards": [
+      {"festival": "Cannes", "award": "Best Director",           "year": 1999, "won": true},
+      {"festival": "Oscar",  "award": "Best Foreign Language Film","year": 2000, "won": true}
+    ]
+  },
+  {
+    "film_title": "Talk to Her",
+    "film_year": 2002,
+    "awards": [
+      {"festival": "Oscar", "award": "Best Original Screenplay", "year": 2003, "won": true}
+    ]
+  },
+  {
+    "film_title": "Volver",
+    "film_year": 2006,
+    "awards": [
+      {"festival": "Cannes", "award": "Best Actress",           "year": 2006, "won": true},
+      {"festival": "Cannes", "award": "Best Original Screenplay","year": 2006, "won": true}
+    ]
+  },
+  {
+    "film_title": "Pain and Glory",
+    "film_year": 2019,
+    "awards": [
+      {"festival": "Cannes", "award": "Best Actor",             "year": 2019, "won": true}
+    ]
+  },
+  {
+    "film_title": "Honey",
+    "film_year": 2010,
+    "awards": [
+      {"festival": "Berlin", "award": "Golden Bear",            "year": 2010, "won": true}
+    ]
+  }
+]

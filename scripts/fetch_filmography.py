@@ -1,7 +1,7 @@
 """
 fetch_filmography.py
 --------------------
-14 seed yönetmenin filmografisini TMDb API v3'ten çekip
+34 seed yönetmenin filmografisini TMDb API v3'ten çekip
 data/films.json, data/persons.json, data/relationships.json olarak kaydeder.
 """
 
@@ -45,20 +45,18 @@ logger = logging.getLogger(__name__)
 # Sabitler
 # ---------------------------------------------------------------------------
 SEED_DIRECTORS = [
-    "Andrei Tarkovsky",
-    "Stanley Kubrick",
-    "Ingmar Bergman",
-    "Woody Allen",
-    "Alfred Hitchcock",
-    "Federico Fellini",
-    "Akira Kurosawa",
-    "Jean Renoir",
-    "David Fincher",
-    "Quentin Tarantino",
-    "Paul Thomas Anderson",
-    "Nuri Bilge Ceylan",
-    "Zeki Demirkubuz",
-    "David Lynch",
+    "Andrei Tarkovsky",    "Stanley Kubrick",      "Ingmar Bergman",
+    "Woody Allen",         "Alfred Hitchcock",     "Federico Fellini",
+    "Akira Kurosawa",      "Jean Renoir",          "David Fincher",
+    "Quentin Tarantino",   "Paul Thomas Anderson",
+    "Nuri Bilge Ceylan",   "Zeki Demirkubuz",      "David Lynch",
+    "Jean-Luc Godard",     "François Truffaut",    "Michelangelo Antonioni",
+    "Krzysztof Kieślowski","Lars von Trier",        "Michael Haneke",
+    "Wim Wenders",         "Pedro Almodóvar",
+    "Wong Kar-wai",        "Yasujirō Ozu",         "Abbas Kiarostami",
+    "Park Chan-wook",      "Bong Joon-ho",         "Hirokazu Kore-eda",
+    "Martin Scorsese",     "Joel Coen",            "Terrence Malick",    "Spike Lee",
+    "Yılmaz Güney",        "Semih Kaplanoğlu",
 ]
 
 CREW_ROLES = {
