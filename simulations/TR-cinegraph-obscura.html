@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Cinema Graph — Interactive Network v2</title>
+<title>Cinegraph Obscura — İnteraktif Sinema Ağı</title>
 <link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Geist+Mono:wght@400;500;600&family=Source+Sans+3:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 <style>
 :root{--bg:#08080c;--surface:#111118;--card:#18181f;--border:#252532;--gold:#e2b93b;--gold-glow:rgba(226,185,59,0.08);--orange:#f06830;--blue:#5b8def;--green:#3dc98a;--purple:#b06de8;--cyan:#4ecdc4;--text:#e5e3df;--text-sec:#9a98a8;--text-dim:#5e5c6e;--font-display:'Instrument Serif',serif;--font-body:'Source Sans 3',sans-serif;--font-mono:'Geist Mono',monospace}
@@ -16,17 +16,17 @@
 .hdr-l h1{font-family:var(--font-display);font-size:1.4rem;font-weight:400}.hdr-l h1 em{color:var(--gold);font-style:italic}
 .badge{display:inline-flex;align-items:center;gap:6px;padding:4px 10px;background:var(--card);border:1px solid var(--border);border-radius:100px;font-family:var(--font-mono);font-size:10px;color:var(--text-dim);text-transform:uppercase;letter-spacing:.06em}
 .badge .dot{width:5px;height:5px;background:var(--green);border-radius:50%;animation:p 2s infinite}@keyframes p{0%,100%{opacity:1}50%{opacity:.3}}
-.mtabs{display:flex;gap:4px}.mt{padding:6px 14px;background:var(--card);border:1px solid var(--border);border-radius:8px;font-family:var(--font-mono);font-size:10px;text-transform:uppercase;letter-spacing:.06em;color:var(--text-dim);cursor:pointer;transition:all .2s}
+.mtabs{display:flex;gap:4px}.mt{padding:10px 20px;background:var(--card);border:1px solid var(--border);border-radius:10px;font-family:var(--font-mono);font-size:13px;text-transform:uppercase;letter-spacing:.06em;color:var(--text-dim);cursor:pointer;transition:all .2s}
 .mt:hover{border-color:var(--gold);color:var(--text-sec)}.mt.act{border-color:var(--gold);color:var(--gold);background:var(--gold-glow)}
 
-.ctrl{position:fixed;top:64px;left:16px;z-index:100;width:250px;background:var(--surface);border:1px solid var(--border);border-radius:12px;overflow:hidden;box-shadow:0 12px 48px rgba(0,0,0,.5)}
+.ctrl{position:fixed;top:64px;left:16px;z-index:100;width:300px;background:var(--surface);border:1px solid var(--border);border-radius:12px;overflow:hidden;box-shadow:0 12px 48px rgba(0,0,0,.5)}
 .ctrl-h{display:flex;align-items:center;justify-content:space-between;padding:12px 14px;border-bottom:1px solid var(--border);cursor:pointer;user-select:none}
 .ctrl-h h3{font-family:var(--font-mono);font-size:10px;text-transform:uppercase;letter-spacing:.08em;color:var(--text-dim)}
 .ctrl-b{padding:12px 14px;display:flex;flex-direction:column;gap:11px;max-height:calc(100vh - 180px);overflow-y:auto}.ctrl-b.hid{display:none}
-.cg label{display:block;font-family:var(--font-mono);font-size:9.5px;text-transform:uppercase;letter-spacing:.08em;color:var(--text-dim);margin-bottom:5px}
-.si{width:100%;padding:7px 10px;background:var(--card);border:1px solid var(--border);border-radius:7px;color:var(--text);font-family:var(--font-body);font-size:12px;outline:none;transition:border-color .2s}
+.cg label{display:block;font-family:var(--font-mono);font-size:12px;text-transform:uppercase;letter-spacing:.08em;color:var(--text-dim);margin-bottom:5px}
+.si{width:100%;padding:10px 14px;background:var(--card);border:1px solid var(--border);border-radius:8px;color:var(--text);font-family:var(--font-body);font-size:14px;outline:none;transition:border-color .2s}
 .si:focus{border-color:var(--gold)}.si::placeholder{color:var(--text-dim)}
-.chips{display:flex;flex-wrap:wrap;gap:4px}.chip{padding:4px 8px;background:var(--card);border:1px solid var(--border);border-radius:5px;font-size:10px;font-weight:500;cursor:pointer;transition:all .2s;user-select:none;color:var(--text-sec)}
+.chips{display:flex;flex-wrap:wrap;gap:6px}.chip{padding:8px 14px;background:var(--card);border:1px solid var(--border);border-radius:8px;font-size:13px;font-weight:500;cursor:pointer;transition:all .2s;user-select:none;color:var(--text-sec)}
 .chip:hover{border-color:#3a3a4e}.chip.act{border-color:var(--gold);color:var(--gold);background:var(--gold-glow)}
 .chip.bc.act{border-color:var(--cyan);color:var(--cyan);background:rgba(78,205,196,.08)}
 .chip[data-l="films"].act{border-color:#e85555;color:#e85555;background:rgba(232,85,85,.08)}
@@ -34,7 +34,7 @@
 .chip[data-l="studios"].act{border-color:#3dc98a;color:#3dc98a;background:rgba(61,201,138,.08)}
 .sr{display:flex;align-items:center;gap:8px}.sr input[type=range]{flex:1;accent-color:var(--gold);height:3px}
 .sr .sv{font-family:var(--font-mono);font-size:10px;color:var(--text-sec);min-width:28px;text-align:right}
-.br{display:flex;gap:5px}.bn{flex:1;padding:6px;background:var(--card);border:1px solid var(--border);border-radius:6px;color:var(--text-sec);font-family:var(--font-mono);font-size:9px;text-transform:uppercase;letter-spacing:.06em;cursor:pointer;text-align:center;transition:all .2s}
+.br{display:flex;gap:5px}.bn{flex:1;padding:10px;background:var(--card);border:1px solid var(--border);border-radius:8px;color:var(--text-sec);font-family:var(--font-mono);font-size:12px;text-transform:uppercase;letter-spacing:.06em;cursor:pointer;text-align:center;transition:all .2s}
 .bn:hover{border-color:var(--gold);color:var(--gold)}.bn.act{background:var(--gold-glow);border-color:var(--gold);color:var(--gold)}
 
 .dp{position:fixed;top:64px;right:16px;z-index:100;width:280px;background:var(--surface);border:1px solid var(--border);border-radius:12px;overflow:hidden;box-shadow:0 12px 48px rgba(0,0,0,.5);display:none}
@@ -65,17 +65,46 @@
 .mm{position:fixed;bottom:16px;right:16px;z-index:90;width:160px;height:100px;background:rgba(17,17,24,.85);border:1px solid var(--border);border-radius:8px;overflow:hidden;backdrop-filter:blur(4px)}
 .mm canvas{width:100%;height:100%}
 
-.lgd{position:fixed;bottom:16px;left:16px;z-index:90;display:flex;flex-wrap:wrap;gap:10px;padding:10px 14px;background:rgba(17,17,24,.9);border:1px solid var(--border);border-radius:8px;backdrop-filter:blur(8px)}
-.lgd-i{display:flex;align-items:center;gap:5px;font-size:10px;color:var(--text-sec)}.lgd-d{width:8px;height:8px;border-radius:50%}
+.lgd{position:fixed;bottom:16px;left:16px;z-index:90;display:flex;flex-wrap:wrap;gap:14px;padding:14px 20px;background:rgba(17,17,24,.92);border:1px solid var(--border);border-radius:10px;backdrop-filter:blur(8px)}
+.lgd-i{display:flex;align-items:center;gap:8px;font-size:14px;color:var(--text-sec);font-weight:500}.lgd-d{width:14px;height:14px;border-radius:50%}
 
 .tt{position:fixed;z-index:200;padding:7px 12px;background:var(--card);border:1px solid var(--border);border-radius:7px;font-size:11px;color:var(--text);pointer-events:none;display:none;box-shadow:0 8px 32px rgba(0,0,0,.4);max-width:200px}
 .tt .tn{font-weight:600;margin-bottom:1px}.tt .tm{font-size:10px;color:var(--text-sec)}
+.zoom-ctrl{position:fixed;bottom:20px;right:190px;z-index:95;display:flex;flex-direction:column;gap:6px}
+.zoom-btn{width:44px;height:44px;background:rgba(17,17,24,.92);border:1px solid var(--border);border-radius:10px;color:var(--text-sec);font-size:22px;font-weight:700;cursor:pointer;display:flex;align-items:center;justify-content:center;transition:all .2s;font-family:var(--font-mono);user-select:none}
+.zoom-btn:hover{border-color:var(--gold);color:var(--gold);background:var(--gold-glow)}
+.guide{position:fixed;top:64px;left:320px;z-index:100;width:280px;display:none}
+.g-section{border-top:1px solid var(--border);padding:0}
+.g-header{padding:12px 14px;display:flex;align-items:center;gap:8px}
+.g-header h3{font-family:var(--font-mono);font-size:12px;text-transform:uppercase;letter-spacing:.08em;color:var(--gold)}
+.g-first-tip{padding:10px 14px;background:linear-gradient(135deg,rgba(226,185,59,0.06),transparent);border-left:3px solid var(--gold);margin:0 10px 10px 10px;border-radius:0 8px 8px 0}
+.g-first-tip p{font-size:13px;color:var(--text-sec);line-height:1.5}
+.g-first-tip strong{color:var(--text)}
+.g-more-btn{display:flex;align-items:center;justify-content:center;gap:6px;padding:10px 14px;margin:0 10px 10px 10px;background:var(--card);border:1px solid var(--border);border-radius:8px;color:var(--text-sec);font-family:var(--font-mono);font-size:12px;cursor:pointer;transition:all .2s;user-select:none;text-transform:uppercase;letter-spacing:.06em}
+.g-more-btn:hover{border-color:var(--gold);color:var(--gold)}
+.g-more-btn.open{border-color:var(--gold);color:var(--gold);background:var(--gold-glow)}
+.g-more-btn .g-chevron{transition:transform .2s;font-size:10px}
+.g-more-btn.open .g-chevron{transform:rotate(180deg)}
+.g-extra{display:none;padding:0 10px 10px 10px}
+.g-extra.vis{display:block}
+.g-tip{padding:10px 12px;border:1px solid var(--border);border-radius:8px;margin-bottom:8px;background:var(--card)}
+.g-tip-title{font-family:var(--font-mono);font-size:11px;text-transform:uppercase;letter-spacing:.06em;color:var(--gold);margin-bottom:5px;display:flex;align-items:center;gap:6px}
+.g-tip-title .g-icon{font-size:14px}
+.g-tip p{font-size:12.5px;color:var(--text-sec);line-height:1.5}
+.g-tip strong{color:var(--text);font-weight:600}
+.g-tip .g-key{display:inline-flex;padding:2px 7px;background:var(--surface);border:1px solid var(--border);border-radius:4px;font-family:var(--font-mono);font-size:11px;color:var(--text-sec);margin:0 2px}
+.cta{position:fixed;top:50%;left:50%;transform:translate(-50%,-50%);z-index:150;text-align:center;animation:ctaFade 1s ease-out}
+.cta-btn{padding:20px 40px;background:linear-gradient(135deg,rgba(226,185,59,0.15),rgba(226,185,59,0.05));border:2px solid var(--gold);border-radius:16px;color:var(--gold);font-family:var(--font-display);font-size:24px;cursor:pointer;transition:all .3s;display:flex;flex-direction:column;align-items:center;gap:8px;backdrop-filter:blur(12px);box-shadow:0 0 60px rgba(226,185,59,0.1)}
+.cta-btn:hover{background:linear-gradient(135deg,rgba(226,185,59,0.25),rgba(226,185,59,0.1));box-shadow:0 0 80px rgba(226,185,59,0.2);transform:scale(1.03)}
+.cta-btn .cta-sub{font-family:var(--font-mono);font-size:13px;color:var(--text-sec);text-transform:uppercase;letter-spacing:.1em}
+.cta.gone{opacity:0;pointer-events:none;transition:opacity .5s}
+@keyframes ctaFade{from{opacity:0;transform:translate(-50%,-50%) scale(0.9)}to{opacity:1;transform:translate(-50%,-50%) scale(1)}}
 </style>
 </head>
 <body>
 <canvas id="gc"></canvas>
 <div class="hdr">
-  <div class="hdr-l"><h1>Cinema <em>Graph</em></h1><span class="badge"><span class="dot"></span>v2</span></div>
+  <div class="hdr-l"><h1>Cinegraph <em>Obscura</em></h1><span class="badge"><span class="dot"></span>v2</span></div>
   <div class="mtabs">
     <div class="mt act" onclick="setMode('explore')">Keşfet</div>
     <div class="mt" onclick="setMode('cluster')">Kümeleme</div>
@@ -104,6 +133,25 @@
       <div class="bn" id="pB" onclick="tP()">Durdur</div>
       <div class="bn" onclick="shufflePos()">Karıştır</div>
     </div></div>
+    <div class="g-section">
+      <div class="g-header"><span>📖</span><h3>Kullanım Kılavuzu</h3></div>
+      <div class="g-first-tip"><p>👆 <strong>Herhangi bir noktaya tıkla</strong> ve keşfetmeye başla.<br>Altın noktalar yönetmenler, mor noktalar sinema akımları.</p></div>
+      <div class="g-more-btn" id="gMoreBtn" onclick="toggleMore()"><span>Daha fazla</span><span class="g-chevron">▼</span></div>
+      <div class="g-extra" id="gExtra">
+        <div class="g-tip">
+          <div class="g-tip-title"><span class="g-icon">🔍</span> Katmanlar</div>
+          <p><strong>Köprüler</strong> → Sven Nykvist gibi yönetmenleri bağlayan kişiler<br><strong>Filmler</strong> → Her yönetmenin en iyi 5 filmi<br><strong>Oyuncular</strong> → Sık çalışılan oyuncular<br><strong>Stüdyolar</strong> → Yapım şirketleri</p>
+        </div>
+        <div class="g-tip">
+          <div class="g-tip-title"><span class="g-icon">🧭</span> Modlar</div>
+          <p><strong>Keşfet</strong> → Serbest keşif, sürükle-bırak<br><strong>Kümeleme</strong> → Akımlara göre gruplanma<br><strong>Yol Bul</strong> → İki yönetmene tıkla, en kısa yol<br><strong>Zaman</strong> → 1925'ten bugüne animasyon</p>
+        </div>
+        <div class="g-tip">
+          <div class="g-tip-title"><span class="g-icon">🖱️</span> Kontroller</div>
+          <p><span class="g-key">+</span> <span class="g-key">−</span> ile yakınlaş/uzaklaş<br><strong>Sürükle</strong> → Boş alanda haritayı kaydır<br><strong>Noktayı sürükle</strong> → Konumunu değiştir<br><strong>Arama</strong> → İsim yazarak filtrele</p>
+        </div>
+      </div>
+    </div>
   </div>
 </div>
 <div class="dp" id="dp"><div class="dp-h"><h2 id="dn"></h2><button class="dc" onclick="cD()">✕</button></div><div class="dp-b" id="db"></div></div>
@@ -111,6 +159,8 @@
 <div class="tbar" id="tB"><label>Zaman filtresi</label><div class="tl-r"><span class="tl-y" id="tY">2025</span><input type="range" id="tS" min="1925" max="2025" value="2025" step="1"><button class="tl-p" id="tPl" onclick="tTP()">▶ Oynat</button></div></div>
 <div class="lgd" id="lgd"></div>
 <div class="mm"><canvas id="mc" width="320" height="200"></canvas></div>
+<div class="cta" id="cta" onclick="dismissCta()"><button class="cta-btn"><span>Keşfetmeye Başla</span><span class="cta-sub">Herhangi bir noktaya tıkla</span></button></div>
+<div class="zoom-ctrl"><button class="zoom-btn" onclick="zoomIn()">+</button><button class="zoom-btn" onclick="zoomOut()">−</button></div>
 <div class="tt" id="tt"><div class="tn"></div><div class="tm"></div></div>
 
 <script>
@@ -346,7 +396,7 @@ cv.addEventListener('mousemove',e=>{
     tt.querySelector('.tn').textContent=nd.label;tt.querySelector('.tm').textContent=m;tt.style.display='block';tt.style.left=(e.clientX+14)+'px';tt.style.top=(e.clientY-8)+'px'}else tt.style.display='none'}
 });
 cv.addEventListener('mouseup',()=>{if(dragging){dragging.fx=null;dragging.fy=null}dragging=null;isPan=false;dragStart=null});
-cv.addEventListener('click',e=>{
+cv.addEventListener('click',e=>{dismissCta();
   if(didDrag)return;const nd=gN(e.clientX,e.clientY);
   if(mode==='path'&&nd&&nd.type==='director'){
     if(!pathSrc){pathSrc=nd;selected=nd;showDetail(nd)}
@@ -479,6 +529,10 @@ document.getElementById('lgd').innerHTML=[
   {c:'#f06830',l:'Etkilenme →'}
 ].map(i=>`<div class="lgd-i"><span class="lgd-d" style="background:${i.c}"></span>${i.l}</div>`).join('');
 
+function dismissCta(){document.getElementById("cta").classList.add("gone")}
+function toggleMore(){const ex=document.getElementById('gExtra');const btn=document.getElementById('gMoreBtn');ex.classList.toggle('vis');btn.classList.toggle('open')}
+function zoomIn(){const f=1.25;const cx=innerWidth/2,cy=innerHeight/2;const nz=Math.min(5,zoom*f);panX=cx-(cx-panX)*(nz/zoom);panY=cy-(cy-panY)*(nz/zoom);zoom=nz}
+function zoomOut(){const f=0.8;const cx=innerWidth/2,cy=innerHeight/2;const nz=Math.max(0.2,zoom*f);panX=cx-(cx-panX)*(nz/zoom);panY=cy-(cy-panY)*(nz/zoom);zoom=nz}
 // ═══════════ MAIN ═══════════
 build();uV();
 (function loop(){sim();draw();requestAnimationFrame(loop)})();
