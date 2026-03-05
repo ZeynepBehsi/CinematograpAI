@@ -1,4 +1,41 @@
-.env
-apis.txt
-web/backend/.env
-web/backend/.env.example
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+venv/
+.venv/
+# Jupyter
+.ipynb_checkpoints/
+# Node.js
+node_modules/
+# Build outputs
+build/
+dist/
+# System files
+.DS_Store
+Thumbs.db
+# Logs
+*.log
+# Temp files
+*.tmp
+*.swp
+*.bak
+# IDE
+.vscode/
+.idea/
+# Frontend
+web/frontend/node_modules/
+web/frontend/dist/
+web/frontend/.DS_Store
+# Simulations
+simulations/*.log
+simulations/*.tmp
+simulations/*.bak
+# Prompts
+promtlar/
+
+KURULUM.md
+README_TR.md
