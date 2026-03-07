@@ -412,7 +412,7 @@ cd web/frontend && npm run dev
 
 Clicking any node in the graph automatically generates a new query about that node.
 
-### Screenshots
+### Web App Interface
 
 ![Main Page](images/webapp.png)
 
